@@ -1,0 +1,19 @@
+RegionID,Region,MarketID
+RE0,East,MA0
+RE1,Oceania,MA1
+RE2,Central,MA2
+RE3,Africa,MA3
+RE4,West,MA0
+RE5,South,MA0
+RE6,Central Asia,MA1
+RE7,EMEA,MA4
+RE8,South,MA5
+RE9,North Asia,MA1
+RE10,South,MA2
+RE11,Central,MA0
+RE12,North,MA2
+RE13,North,MA5
+RE14,Central,MA5
+RE15,Caribbean,MA5
+RE16,Southeast Asia,MA1
+RE17,Canada,MA6

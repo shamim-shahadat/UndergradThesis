@@ -1,0 +1,1120 @@
+StateID,State,CountryID
+ST0,New York,CO0
+ST1,New South Wales,CO1
+ST2,Queensland,CO1
+ST3,Berlin,CO2
+ST4,Dakar,CO3
+ST5,Wellington,CO4
+ST6,Waikato,CO4
+ST7,California,CO0
+ST8,North Carolina,CO0
+ST9,Virginia,CO0
+ST10,Kabul,CO5
+ST11,Jizan,CO6
+ST12,Parana,CO7
+ST13,Heilongjiang,CO8
+ST14,Ile-de-France,CO9
+ST15,Kentucky,CO0
+ST16,Tuscany,CO10
+ST17,Kigoma,CO11
+ST18,Silesia,CO12
+ST19,Illinois,CO0
+ST20,Anhui,CO8
+ST21,Scotland,CO13
+ST22,Chihuahua,CO14
+ST23,San Salvador,CO15
+ST24,Taipei City,CO16
+ST25,Saxony,CO2
+ST26,Gujarat,CO17
+ST27,Santo Domingo,CO18
+ST28,Brittany,CO9
+ST29,Texas,CO0
+ST30,Katanga,CO19
+ST31,England,CO13
+ST32,Nusa Tenggara Barat,CO20
+ST33,Haryana,CO17
+ST34,Kerala,CO17
+ST35,Minnesota,CO0
+ST36,Shandong,CO8
+ST37,Jharkhand,CO17
+ST38,Paysandú,CO21
+ST39,Mazandaran,CO22
+ST40,Cidade De Maputo,CO23
+ST41,Madhya Pradesh,CO17
+ST42,Washington,CO0
+ST43,Delhi,CO17
+ST44,Western Australia,CO1
+ST45,Florida,CO0
+ST46,Dhaka,CO24
+ST47,Lower Saxony,CO2
+ST48,Jiangsu,CO8
+ST49,Andalusía,CO25
+ST50,Uttarakhand,CO17
+ST51,Durango,CO14
+ST52,Kharkiv,CO26
+ST53,Chinandega,CO27
+ST54,Kasai-Occidental,CO19
+ST55,Sumatera Selatan,CO20
+ST56,Victoria,CO1
+ST57,Georgia,CO0
+ST58,North Rhine-Westphalia,CO2
+ST59,Sichuan,CO8
+ST60,West Bengal,CO17
+ST61,Nord-Pas-de-Calais,CO9
+ST62,Meknès-Tafilalet,CO28
+ST63,Michigan,CO0
+ST64,Pennsylvania,CO0
+ST65,Jawa Barat,CO20
+ST66,Grand Casablanca,CO28
+ST67,Nevada,CO0
+ST68,Quebec,CO29
+ST69,National Capital,CO30
+ST70,Styria,CO31
+ST71,Kinshasa,CO19
+ST72,Aquitaine,CO9
+ST73,Puebla,CO14
+ST74,Bavaria,CO2
+ST75,Provence-Alpes-Côte d'Azur,CO9
+ST76,Antioquia,CO32
+ST77,North Brabant,CO33
+ST78,New Jersey,CO0
+ST79,Galicia,CO25
+ST80,Bremen,CO2
+ST81,Midi-Pyrénées,CO9
+ST82,South Australia,CO1
+ST83,Pahang,CO34
+ST84,Massachusetts,CO0
+ST85,Pichincha,CO35
+ST86,Hainan,CO8
+ST87,Bangkok,CO36
+ST88,Sonora,CO14
+ST89,Hubei,CO8
+ST90,Wisconsin,CO0
+ST91,São Paulo,CO7
+ST92,Veneto,CO10
+ST93,Woqooyi Galbeed,CO37
+ST94,Yogyakarta,CO20
+ST95,Liaoning,CO8
+ST96,North Holland,CO33
+ST97,Upper Normandy,CO9
+ST98,Hamburg,CO2
+ST99,Guatemala,CO38
+ST100,Michoacán,CO14
+ST101,Jilin,CO8
+ST102,Madrid,CO25
+ST103,Makkah,CO6
+ST104,Oklahoma,CO0
+ST105,Sumatera Utara,CO20
+ST106,Jakarta,CO20
+ST107,Ohio,CO0
+ST108,Jawa Tengah,CO20
+ST109,Beijing,CO8
+ST110,Hidalgo,CO14
+ST111,Brest,CO39
+ST112,Valenciana,CO25
+ST113,Zhytomyr,CO26
+ST114,Bihar,CO17
+ST115,Phnom Penh,CO40
+ST116,Jambi,CO20
+ST117,Delaware,CO0
+ST118,Guangdong,CO8
+ST119,Tasmania,CO1
+ST120,Gauteng,CO41
+ST121,Basque Country,CO25
+ST122,Rhode Island,CO0
+ST123,Fars,CO22
+ST124,Shizuoka,CO42
+ST125,Kuala Lumpur,CO34
+ST126,Astrakhan',CO43
+ST127,Hunan,CO8
+ST128,Zhejiang,CO8
+ST129,Pays de la Loire,CO9
+ST130,Burgundy,CO9
+ST131,Western Cape,CO41
+ST132,Al Qahirah,CO44
+ST133,Baki,CO45
+ST134,Vilnius,CO46
+ST135,Buenos Aires,CO47
+ST136,Suhaj,CO44
+ST137,Maseru,CO48
+ST138,Henan,CO8
+ST139,Bahia,CO7
+ST140,Matagalpa,CO27
+ST141,Managua,CO27
+ST142,Inner Mongolia,CO8
+ST143,Alsace,CO9
+ST144,Jawa Timur,CO20
+ST145,Vienna,CO31
+ST146,Distrito Federal,CO14
+ST147,Osaka,CO42
+ST148,Uttar Pradesh,CO17
+ST149,Catalonia,CO25
+ST150,Ho Chí Minh City,CO49
+ST151,Camagüey,CO50
+ST152,Neamt,CO51
+ST153,Guanajuato,CO14
+ST154,Izmir,CO52
+ST155,Auckland,CO4
+ST156,Centre,CO53
+ST157,Cantabria,CO25
+ST158,Hebei,CO8
+ST159,Shanghai,CO8
+ST160,León,CO27
+ST161,Yaroslavl',CO43
+ST162,Australian Capital Territory,CO1
+ST163,Eastern Cape,CO41
+ST164,Chhattisgarh,CO17
+ST165,Canterbury,CO4
+ST166,Chongqing,CO8
+ST167,Bekes,CO54
+ST168,Piedmont,CO10
+ST169,Missouri,CO0
+ST170,Singapore,CO55
+ST171,Benguela,CO56
+ST172,Indiana,CO0
+ST173,Hyogo,CO42
+ST174,Sulawesi Tenggara,CO20
+ST175,Alabama,CO0
+ST176,Auvergne,CO9
+ST177,Buzau,CO51
+ST178,Paraíba,CO7
+ST179,Northern Territory,CO1
+ST180,Lower Normandy,CO9
+ST181,East Flanders,CO57
+ST182,Punjab,CO58
+ST183,Rhône-Alpes,CO9
+ST184,Uusimaa,CO59
+ST185,Bolívar,CO32
+ST186,Quintana Roo,CO14
+ST187,Ashanti,CO60
+ST188,Tamil Nadu,CO17
+ST189,Lorestan,CO22
+ST190,Apulia,CO10
+ST191,Nuevo León,CO14
+ST192,Goiás,CO7
+ST193,Sulawesi Utara,CO20
+ST194,Kermanshah,CO22
+ST195,Maharashtra,CO17
+ST196,Santander,CO32
+ST197,Karnataka,CO17
+ST198,Fujian,CO8
+ST199,Copperbelt,CO61
+ST200,Rajasthan,CO17
+ST201,Thuringia,CO2
+ST202,Nebraska,CO0
+ST203,Tabasco,CO14
+ST204,México,CO14
+ST205,Sinaloa,CO14
+ST206,Maysan,CO62
+ST207,Razavi Khorasan,CO22
+ST208,Lazio,CO10
+ST209,Balearic Islands,CO25
+ST210,Gyor,CO54
+ST211,Montserrado,CO63
+ST212,Santiago de Cuba,CO50
+ST213,Bogota,CO32
+ST214,Tbilisi,CO64
+ST215,Gansu,CO8
+ST216,Emilia-Romagna,CO10
+ST217,Lublin,CO12
+ST218,Zürich,CO65
+ST219,Elbasan,CO66
+ST220,Voronezh,CO43
+ST221,Yamaguchi,CO42
+ST222,Sulawesi Tengah,CO20
+ST223,Manipur,CO17
+ST224,Mandoul,CO67
+ST225,Podgorica,CO68
+ST226,Jalisco,CO14
+ST227,Ontario,CO29
+ST228,Hamadan,CO22
+ST229,Khomas,CO69
+ST230,Quezaltenango,CO38
+ST231,La Libertad,CO15
+ST232,Guantánamo,CO50
+ST233,Western Visayas,CO30
+ST234,Louisiana,CO0
+ST235,Lisboa,CO70
+ST236,San Juan,CO18
+ST237,Analamanga,CO71
+ST238,Bashkortostan,CO43
+ST239,Tehran,CO22
+ST240,Baluchistan,CO58
+ST241,Cundinamarca,CO32
+ST242,Volyn,CO26
+ST243,Utah,CO0
+ST244,Northland,CO4
+ST245,Yunnan,CO8
+ST246,British Columbia,CO29
+ST247,Navarra,CO25
+ST248,Stockholm,CO72
+ST249,Asturias,CO25
+ST250,Campania,CO10
+ST251,Poltava,CO26
+ST252,Andhra Pradesh,CO17
+ST253,North-West,CO41
+ST254,Vladimir,CO43
+ST255,Castile and León,CO25
+ST256,Yangon,CO73
+ST257,Saint Catherine,CO74
+ST258,Tianjin,CO8
+ST259,Barahona,CO18
+ST260,Federal District,CO7
+ST261,Ad Dawhah,CO75
+ST262,Oita,CO42
+ST263,Bay of Plenty,CO4
+ST264,Rio Grande do Norte,CO7
+ST265,Languedoc-Roussillon,CO9
+ST266,Hesse,CO2
+ST267,Santa Catarina,CO7
+ST268,New Hampshire,CO0
+ST269,Yucatán,CO14
+ST270,Dar Es Salaam,CO11
+ST271,Tadla-Azilal,CO28
+ST272,Niari,CO76
+ST273,Kaliningrad,CO43
+ST274,Vest-Agder,CO77
+ST275,Al Qadisiyah,CO62
+ST276,Arizona,CO0
+ST277,Mayabeque,CO50
+ST278,Alger,CO78
+ST279,Istanbul,CO52
+ST280,Kaunas,CO46
+ST281,Ardabil,CO22
+ST282,Baja California,CO14
+ST283,Al Iskandariyah,CO44
+ST284,Guangxi,CO8
+ST285,Mecklenburg-Vorpommern,CO2
+ST286,Trentino-Alto Adige,CO10
+ST287,Basel-Stadt,CO65
+ST288,Maputo,CO23
+ST289,Poitou-Charentes,CO9
+ST290,Seoul,CO79
+ST291,Lombardy,CO10
+ST292,Sabah,CO34
+ST293,Colorado,CO0
+ST294,Minas Gerais,CO7
+ST295,Benue,CO80
+ST296,Harjumaa,CO81
+ST297,Wales,CO13
+ST298,Kalimantan Timur,CO20
+ST299,Balikesir,CO52
+ST300,Fromager,CO82
+ST301,Francisco Morazán,CO83
+ST302,Maryland,CO0
+ST303,Sancti Spíritus,CO50
+ST304,Hordaland,CO77
+ST305,Ar Riyad,CO6
+ST306,Lucerne,CO65
+ST307,Central,CO84
+ST308,Kasai-Oriental,CO19
+ST309,Lorraine,CO9
+ST310,Jammu and Kashmir,CO17
+ST311,Haut-Sassandra,CO82
+ST312,Coahuila,CO14
+ST313,Cordillera,CO30
+ST314,Chelyabinsk,CO43
+ST315,Espírito Santo,CO7
+ST316,Abruzzi,CO10
+ST317,Chittagong,CO24
+ST318,Baghdad,CO62
+ST319,San Luis,CO47
+ST320,San Luis Potosí,CO14
+ST321,Prague,CO85
+ST322,Bangui,CO86
+ST323,Hawke's Bay,CO4
+ST324,Antwerp,CO57
+ST325,Chiba,CO42
+ST326,Ouémé,CO87
+ST327,Vermont,CO0
+ST328,Esfahan,CO22
+ST329,L'viv,CO26
+ST330,Oslo,CO77
+ST331,Arbil,CO62
+ST332,San Pedro de Macorís,CO18
+ST333,Estelí,CO27
+ST334,Pinar del Río,CO50
+ST335,Tanger-Tétouan,CO28
+ST336,Oruro,CO88
+ST337,Gunma,CO42
+ST338,Amur,CO43
+ST339,Telangana,CO17
+ST340,Durrës,CO66
+ST341,Tamaulipas,CO14
+ST342,Atacama,CO89
+ST343,La Romana,CO18
+ST344,Martinique,CO90
+ST345,Rhineland-Palatinate,CO2
+ST346,Rio de Janeiro,CO7
+ST347,Hims,CO91
+ST348,Tocantins,CO7
+ST349,Bali,CO20
+ST350,Gyeonggi,CO79
+ST351,Khulna,CO24
+ST352,Baden-Württemberg,CO2
+ST353,Granma,CO50
+ST354,Namur,CO57
+ST355,Gilan,CO22
+ST356,Maranhão,CO7
+ST357,Saitama,CO42
+ST358,Beirut,CO92
+ST359,Halland,CO72
+ST360,Punjab,CO17
+ST361,Veracruz,CO14
+ST362,Calabarzon,CO30
+ST363,Picardy,CO9
+ST364,Rabat-Salé-Zemmour-Zaer,CO28
+ST365,Kutahya,CO52
+ST366,Greater Accra,CO60
+ST367,Cochabamba,CO88
+ST368,Biobio,CO89
+ST369,Santiago,CO89
+ST370,Nairobi,CO93
+ST371,Taranaki,CO4
+ST372,Alberta,CO29
+ST373,Sikasso,CO94
+ST374,Amapá,CO7
+ST375,Misratah,CO95
+ST376,Matanzas,CO50
+ST377,T?nh C?n Th?,CO49
+ST378,Las Tunas,CO50
+ST379,Manawatu-Wanganui,CO4
+ST380,Valparaíso,CO89
+ST381,Lara,CO96
+ST382,San Fernando,CO97
+ST383,Dublin,CO98
+ST384,Marrakech-Tensift-El Haouz,CO28
+ST385,Sofiya-Grad,CO99
+ST386,Dnipropetrovs'k,CO26
+ST387,Quindío,CO32
+ST388,Perak,CO34
+ST389,Shanxi,CO8
+ST390,Dagestan,CO43
+ST391,Guelma,CO78
+ST392,Tyrol,CO31
+ST393,Panama,CO100
+ST394,Pernambuco,CO7
+ST395,Odisha,CO17
+ST396,Atlántico,CO32
+ST397,Tel Aviv,CO101
+ST398,Lagos,CO80
+ST399,Chimaltenango,CO38
+ST400,Castile-La Mancha,CO25
+ST401,Villa Clara,CO50
+ST402,Los Lagos,CO89
+ST403,Annaba,CO78
+ST404,Utrecht,CO33
+ST405,Nagasaki,CO42
+ST406,Selangor,CO34
+ST407,Kiên Giang,CO49
+ST408,Santa Cruz,CO88
+ST409,Donetsk,CO26
+ST410,Xinjiang Uygur,CO8
+ST411,Ouest,CO102
+ST412,Brasov,CO51
+ST413,Hiroshima,CO42
+ST414,Gelderland,CO33
+ST415,North Dakota,CO0
+ST416,Th? Dô Hà N?i,CO49
+ST417,Limburg,CO57
+ST418,Pará,CO7
+ST419,Liguria,CO10
+ST420,Connecticut,CO0
+ST421,Sumatera Barat,CO20
+ST422,Los Rios,CO35
+ST423,Al Jawf,CO6
+ST424,Champagne-Ardenne,CO9
+ST425,Saint Michael,CO103
+ST426,Kano,CO80
+ST427,Murcia,CO25
+ST428,Fès-Boulemane,CO28
+ST429,Ciego de Ávila,CO50
+ST430,Arkhangel'sk,CO43
+ST431,Ljubljana,CO104
+ST432,Chernihiv,CO26
+ST433,Bamako,CO94
+ST434,Montevideo,CO21
+ST435,Nayarit,CO14
+ST436,Sicily,CO10
+ST437,Boeny,CO71
+ST438,Saida,CO78
+ST439,Stavropol',CO43
+ST440,Nampula,CO23
+ST441,Vinnytsya,CO26
+ST442,Southern,CO101
+ST443,Eastern,CO61
+ST444,Galati,CO51
+ST445,Centre,CO9
+ST446,Banghazi,CO95
+ST447,Qinghai,CO8
+ST448,Tabuk,CO6
+ST449,Guizhou,CO8
+ST450,Tokyo,CO42
+ST451,Cork,CO98
+ST452,Lusaka,CO61
+ST453,Al Basrah,CO62
+ST454,Santa Ana,CO15
+ST455,Mwanza,CO11
+ST456,Chiriquí,CO100
+ST457,Busan,CO79
+ST458,Holguín,CO50
+ST459,Carinthia,CO31
+ST460,Escuintla,CO38
+ST461,Qom,CO22
+ST462,Al Gharbiyah,CO44
+ST463,Provincia de Buenos Aires,CO47
+ST464,Skåne,CO72
+ST465,Budapest,CO54
+ST466,Maritime,CO105
+ST467,Al Bahr Al Ahmar,CO44
+ST468,Arusha,CO11
+ST469,Campeche,CO14
+ST470,La Vega,CO18
+ST471,Nouakchott,CO106
+ST472,Saint-Louis,CO3
+ST473,Magdalena,CO32
+ST474,Córdoba,CO47
+ST475,Oregon,CO0
+ST476,San Juan,CO47
+ST477,Amazonas,CO7
+ST478,South Holland,CO33
+ST479,Värmland,CO72
+ST480,Shaanxi,CO8
+ST481,Karbala',CO62
+ST482,Hrodna,CO39
+ST483,Tennessee,CO0
+ST484,South Carolina,CO0
+ST485,Caldas,CO32
+ST486,Luanda,CO56
+ST487,Equateur,CO19
+ST488,Morelos,CO14
+ST489,Cortés,CO83
+ST490,Marlborough,CO4
+ST491,Nzérékoré,CO107
+ST492,Kaduna,CO80
+ST493,Duarte,CO18
+ST494,Shumen,CO99
+ST495,Hainaut,CO57
+ST496,Oran,CO78
+ST497,Kigali,CO108
+ST498,Adana,CO52
+ST499,Montana,CO0
+ST500,Plateaux,CO105
+ST501,Riau,CO20
+ST502,Valle del Cauca,CO32
+ST503,Ouest,CO53
+ST504,Ceará,CO7
+ST505,Kwazulu-natal,CO41
+ST506,Luhans'k,CO26
+ST507,Geneva,CO65
+ST508,Guerrero,CO14
+ST509,Chubut,CO47
+ST510,Chaco,CO47
+ST511,Hovedstaden,CO109
+ST512,Niamey,CO110
+ST513,Ankara,CO52
+ST514,Upper Austria,CO31
+ST515,Iowa,CO0
+ST516,National Capital,CO111
+ST517,Kerman,CO22
+ST518,Atlántida,CO83
+ST519,Nelson,CO4
+ST520,Pomerania,CO12
+ST521,Puducherry,CO17
+ST522,Arkansas,CO0
+ST523,Gyeongsangnam,CO79
+ST524,Brandenburg,CO2
+ST525,Saxony-Anhalt,CO2
+ST526,Tolima,CO32
+ST527,Ulaanbaatar,CO112
+ST528,Wyoming,CO0
+ST529,Umbria,CO10
+ST530,Groningen,CO33
+ST531,Red Sea,CO113
+ST532,Kanagawa,CO42
+ST533,Coimbra,CO70
+ST534,Vallee Du Bandama,CO82
+ST535,Anzoátegui,CO96
+ST536,New Mexico,CO0
+ST537,Choluteca,CO83
+ST538,Khartoum,CO113
+ST539,Al Minya,CO44
+ST540,Lima (city),CO114
+ST541,Daejeon,CO79
+ST542,Zambezia,CO23
+ST543,Rajshahi,CO24
+ST544,Querétaro,CO14
+ST545,Prahova,CO51
+ST546,Kassala,CO113
+ST547,Kordestan,CO22
+ST548,Risaralda,CO32
+ST549,Negeri Sembilan,CO34
+ST550,Hradec Kralove,CO85
+ST551,Nusa Tenggara Timur,CO20
+ST552,Fukuoka,CO42
+ST553,Alagoas,CO7
+ST554,Salah Ad Din,CO62
+ST555,Sumy,CO26
+ST556,Doukkala-Abda,CO28
+ST557,Mississippi,CO0
+ST558,Potosí,CO88
+ST559,Dayr Az Zawr,CO91
+ST560,Irkutsk,CO43
+ST561,Banaadir,CO37
+ST562,Bryansk,CO43
+ST563,Isla de la Juventud,CO50
+ST564,Arica y Parinacota,CO89
+ST565,Coast,CO93
+ST566,Aydin,CO52
+ST567,Eastern,CO115
+ST568,Khuzestan,CO22
+ST569,Cluj,CO51
+ST570,Bihor,CO51
+ST571,Trabzon,CO52
+ST572,Kindia,CO107
+ST573,Distrito Capital,CO96
+ST574,Kirovohrad,CO26
+ST575,Lagunes,CO82
+ST576,Finland Proper,CO59
+ST577,Ivanovo,CO43
+ST578,Artemisa,CO50
+ST579,Denizli,CO52
+ST580,Limburg,CO33
+ST581,Carabobo,CO96
+ST582,Kagawa,CO42
+ST583,Kaluga,CO43
+ST584,Papua,CO20
+ST585,Corsica,CO9
+ST586,Kankan,CO107
+ST587,Zaporizhzhya,CO26
+ST588,Federation of Bosnia and Herzegovina,CO116
+ST589,Otago,CO4
+ST590,Bissau,CO117
+ST591,Khmel'nyts'kyy,CO26
+ST592,Mato Grosso,CO7
+ST593,Norte de Santander,CO32
+ST594,Rio Grande do Sul,CO7
+ST595,Sofala,CO23
+ST596,Lacs,CO82
+ST597,Djibouti,CO118
+ST598,Saga,CO42
+ST599,Rift Valley,CO93
+ST600,Timis,CO51
+ST601,Limousin,CO9
+ST602,Sardinia,CO10
+ST603,Vaud,CO65
+ST604,Jerusalem,CO101
+ST605,Miranda,CO96
+ST606,Sonsonate,CO15
+ST607,Saarland,CO2
+ST608,Idaho,CO0
+ST609,Huehuetenango,CO38
+ST610,Azuay,CO35
+ST611,Al Madinah,CO6
+ST612,Rivers,CO80
+ST613,Assam,CO17
+ST614,Gaziantep,CO52
+ST615,Constanta,CO51
+ST616,Ash Sharqiyah,CO6
+ST617,Littoral,CO87
+ST618,District of Columbia,CO0
+ST619,Colima,CO14
+ST620,Khyber Pakhtunkhwa,CO58
+ST621,Eastern,CO93
+ST622,Lodz,CO12
+ST623,Ninawa,CO62
+ST624,Sibiu,CO51
+ST625,Tunis,CO119
+ST626,Santa Fe,CO47
+ST627,Mykolayiv,CO26
+ST628,Rogaland,CO77
+ST629,Masaya,CO27
+ST630,Sergipe,CO7
+ST631,Granada,CO27
+ST632,Flemish Brabant,CO57
+ST633,Grad Zagreb,CO120
+ST634,Babil,CO62
+ST635,Overijssel,CO33
+ST636,Hong Kong,CO121
+ST637,Buskerud,CO77
+ST638,Central,CO122
+ST639,Aswan,CO44
+ST640,Cienfuegos,CO50
+ST641,Panevezys,CO46
+ST642,Gisborne,CO4
+ST643,West Flanders,CO57
+ST644,Bingol,CO52
+ST645,Guadeloupe,CO123
+ST646,South Denmark,CO109
+ST647,Bishkek,CO124
+ST648,Central,CO93
+ST649,Santiago,CO18
+ST650,Bulawayo,CO125
+ST651,Mie,CO42
+ST652,Salzburg,CO31
+ST653,Iringa,CO11
+ST654,Edo,CO80
+ST655,Schleswig-Holstein,CO2
+ST656,Surxondaryo,CO126
+ST657,Porto,CO70
+ST658,Southland,CO4
+ST659,Sarawak,CO34
+ST660,Kandahar,CO5
+ST661,Boyacá,CO32
+ST662,Laghouat,CO78
+ST663,Central Equatoria,CO127
+ST664,Mato Grosso do Sul,CO7
+ST665,Greater Poland,CO12
+ST666,Gezira,CO113
+ST667,F.C.T.,CO58
+ST668,Jiangxi,CO8
+ST669,Guayas,CO35
+ST670,O'Higgins,CO89
+ST671,Bauchi,CO80
+ST672,Estuaire,CO128
+ST673,Opole,CO12
+ST674,Homyel',CO39
+ST675,Sylhet,CO24
+ST676,Ishikawa,CO42
+ST677,Muharraq,CO129
+ST678,Manitoba,CO29
+ST679,Bacau,CO51
+ST680,Northern Mindanao,CO30
+ST681,Colón,CO100
+ST682,Zanjan,CO22
+ST683,Cross River,CO80
+ST684,Haifa,CO101
+ST685,Maradi,CO110
+ST686,Bengkulu,CO20
+ST687,Niassa,CO23
+ST688,Mardin,CO52
+ST689,Sindh,CO58
+ST690,Ta'izz,CO130
+ST691,Huambo,CO56
+ST692,Dà Nang,CO49
+ST693,Trengganu,CO34
+ST694,'Amman,CO131
+ST695,Arequipa,CO114
+ST696,Kocaeli,CO52
+ST697,Uppsala,CO72
+ST698,Ra's Al Khaymah,CO132
+ST699,Kalimantan Barat,CO20
+ST700,Entre Ríos,CO47
+ST701,Shkodër,CO66
+ST702,Kansas,CO0
+ST703,Västra Götaland,CO72
+ST704,Zulia,CO96
+ST705,Shinyanga,CO11
+ST706,Chisinau,CO133
+ST707,Ibaraki,CO42
+ST708,Batman,CO52
+ST709,South Kivu,CO19
+ST710,Mendoza,CO47
+ST711,Golestan,CO22
+ST712,Plateau,CO80
+ST713,Magallanes y Antártica Chilena,CO89
+ST714,Galway,CO98
+ST715,Gorj,CO51
+ST716,West Virginia,CO0
+ST717,Huila,CO32
+ST718,Ceuta,CO25
+ST719,Varna,CO99
+ST720,Nevsehir,CO52
+ST721,Qazvin,CO22
+ST722,Acre,CO7
+ST723,Bistrita-Nasaud,CO51
+ST724,Central Luzon,CO30
+ST725,Junín,CO114
+ST726,Kherson,CO26
+ST727,Espaillat,CO18
+ST728,Bushehr,CO22
+ST729,Bern,CO65
+ST730,Dix-Huit Montagnes,CO82
+ST731,Sud,CO53
+ST732,Donga,CO87
+ST733,Thies,CO3
+ST734,Batna,CO78
+ST735,Zagrebacka,CO120
+ST736,Saskatchewan,CO29
+ST737,Sistan Va Baluchestan,CO22
+ST738,Huila,CO56
+ST739,Hormozgan,CO22
+ST740,Artibonite,CO102
+ST741,Satu Mare,CO51
+ST742,North Lebanon,CO92
+ST743,Valcea,CO51
+ST744,Central,CO101
+ST745,Orientale,CO19
+ST746,Nariño,CO32
+ST747,Imereti,CO64
+ST748,Rivne,CO26
+ST749,Drenthe,CO33
+ST750,Masovia,CO12
+ST751,Jeju,CO79
+ST752,Chocó,CO32
+ST753,Burgas,CO99
+ST754,Nangarhar,CO5
+ST755,Nord,CO53
+ST756,Liège,CO57
+ST757,Plzen,CO85
+ST758,Chiapas,CO14
+ST759,Bursa,CO52
+ST760,Daegu,CO79
+ST761,Botosani,CO51
+ST762,Bani Suwayf,CO44
+ST763,Manzini,CO134
+ST764,Enugu,CO80
+ST765,Ruvuma,CO11
+ST766,Nord-Ouest,CO53
+ST767,Diyarbakir,CO52
+ST768,Mures,CO51
+ST769,Chaguanas,CO97
+ST770,Vratsa,CO99
+ST771,Guárico,CO96
+ST772,Bolivar,CO96
+ST773,Ucayali,CO114
+ST774,Ica,CO114
+ST775,Namangan,CO126
+ST776,Tarija,CO88
+ST777,Est,CO53
+ST778,Piauí,CO7
+ST779,Yoro,CO83
+ST780,Bandundu,CO19
+ST781,Limpopo,CO41
+ST782,Oyo,CO80
+ST783,'Asir,CO6
+ST784,Tanga,CO11
+ST785,Vitsyebsk,CO39
+ST786,Ibb,CO130
+ST787,Souss-Massa-Draâ,CO28
+ST788,Southern,CO61
+ST789,Nyanza,CO93
+ST790,Constantine,CO78
+ST791,Maniema,CO19
+ST792,Al Buhayrah,CO44
+ST793,Al Minufiyah,CO44
+ST794,Cherkasy,CO26
+ST795,Bolu,CO52
+ST796,Callao,CO114
+ST797,Osh,CO124
+ST798,Oaxaca,CO14
+ST799,Vargas,CO96
+ST800,Roraima,CO7
+ST801,White Nile,CO113
+ST802,Hirat,CO5
+ST803,Maine,CO0
+ST804,Northern,CO60
+ST805,Plovdiv,CO99
+ST806,Manabi,CO35
+ST807,Adamaoua,CO53
+ST808,Kilimanjaro,CO11
+ST809,La Paz,CO88
+ST810,Ashgabat,CO135
+ST811,Caquetá,CO32
+ST812,Franche-Comté,CO9
+ST813,Manisa,CO52
+ST814,Marche,CO10
+ST815,Iasi,CO51
+ST816,Al Fayyum,CO44
+ST817,Irbid,CO131
+ST818,Markazi,CO22
+ST819,Savanes,CO82
+ST820,Lesser Poland,CO12
+ST821,Mara,CO11
+ST822,Mbeya,CO11
+ST823,Aichi,CO42
+ST824,Kirsehir,CO52
+ST825,Friuli-Venezia Giulia,CO10
+ST826,Braga,CO70
+ST827,Extremadura,CO25
+ST828,Bejaia,CO78
+ST829,Chuquisaca,CO88
+ST830,Malatya,CO52
+ST831,South Dakota,CO0
+ST832,Chandigarh,CO17
+ST833,Bas-Congo,CO19
+ST834,Corrientes,CO47
+ST835,Harare,CO125
+ST836,Borno,CO80
+ST837,Hatay,CO52
+ST838,Canakkale,CO52
+ST839,Vlorë,CO66
+ST840,Aqmola,CO136
+ST841,Brussels,CO57
+ST842,Nakhon Ratchasima,CO36
+ST843,Antalya,CO52
+ST844,Van,CO52
+ST845,Río Negro,CO47
+ST846,Arauca,CO32
+ST847,Sevastopol',CO26
+ST848,Kymenlaakso,CO59
+ST849,Peravia,CO18
+ST850,Taza-Al Hoceima-Taounate,CO28
+ST851,Nueva Esparta,CO96
+ST852,Qashqadaryo,CO126
+ST853,Ternopil',CO26
+ST854,Khánh Hòa,CO49
+ST855,Yambol,CO99
+ST856,Dire Dawa,CO137
+ST857,Abia,CO80
+ST858,Southern,CO108
+ST859,Asunción,CO84
+ST860,Mehedinti,CO51
+ST861,Southern,CO115
+ST862,Tekirdag,CO52
+ST863,Maramures,CO51
+ST864,Baja California Sur,CO14
+ST865,Elazig,CO52
+ST866,Atakora,CO87
+ST867,Kwara,CO80
+ST868,Qostanay,CO136
+ST869,Chaouia-Ouardigha,CO28
+ST870,Bur Sa'id,CO44
+ST871,Rondônia,CO7
+ST872,Antofagasta,CO89
+ST873,Andijan,CO126
+ST874,Tizi Ouzou,CO78
+ST875,Canelones,CO21
+ST876,Gharb-Chrarda-Béni Hssen,CO28
+ST877,Osmaniye,CO52
+ST878,Misiones,CO47
+ST879,Södermanland,CO72
+ST880,Pavlodar,CO136
+ST881,Tartumaa,CO81
+ST882,Sidi Bel Abbes,CO78
+ST883,Kampala,CO138
+ST884,Igdir,CO52
+ST885,Portuguesa,CO96
+ST886,Hajdu-Bihar,CO54
+ST887,Monagas,CO96
+ST888,Nitra,CO139
+ST889,Cuscatlán,CO15
+ST890,Mersin,CO52
+ST891,Belgorod,CO43
+ST892,Western,CO140
+ST893,Djelfa,CO78
+ST894,Kayseri,CO52
+ST895,Corum,CO52
+ST896,Akwa Ibom,CO80
+ST897,Nigde,CO52
+ST898,Tambov,CO43
+ST899,Zinder,CO110
+ST900,Loreto,CO114
+ST901,Bie,CO56
+ST902,Fukui,CO42
+ST903,Santiago del Estero,CO47
+ST904,San Cristóbal,CO18
+ST905,Niger,CO80
+ST906,Almaty City,CO136
+ST907,Balti,CO133
+ST908,Ulsan,CO79
+ST909,Littoral,CO53
+ST910,Diana,CO71
+ST911,Cesar,CO32
+ST912,Kahramanmaras,CO52
+ST913,Delta,CO80
+ST914,Yaracuy,CO96
+ST915,Mtwara,CO11
+ST916,Aceh,CO20
+ST917,Aveiro,CO70
+ST918,Mostaganem,CO78
+ST919,Beni,CO88
+ST920,Astana,CO136
+ST921,Aragua,CO96
+ST922,Asyut,CO44
+ST923,Medea,CO78
+ST924,Nova Scotia,CO29
+ST925,Qaraghandy,CO136
+ST926,Ancash,CO114
+ST927,Konya,CO52
+ST928,Ash Sharqiyah,CO44
+ST929,Sucre,CO96
+ST930,Tripura,CO17
+ST931,Zealand,CO109
+ST932,Skikda,CO78
+ST933,Moravian-Silesian,CO85
+ST934,Zacatecas,CO14
+ST935,Setúbal,CO70
+ST936,Podlaskie,CO12
+ST937,Moscow,CO43
+ST938,Adiyaman,CO52
+ST939,Giurgiu,CO51
+ST940,Khatlon,CO141
+ST941,Manica,CO23
+ST942,Sanliurfa,CO52
+ST943,Novgorod,CO43
+ST944,Tlemcen,CO78
+ST945,Zeeland,CO33
+ST946,Sliven,CO99
+ST947,Tipaza,CO78
+ST948,Lebap,CO135
+ST949,Friesland,CO33
+ST950,Ayacucho,CO114
+ST951,Ziguinchor,CO3
+ST952,Yazd,CO22
+ST953,Qina,CO44
+ST954,Braila,CO51
+ST955,Yobe,CO80
+ST956,Düzce,CO52
+ST957,Kayes,CO94
+ST958,Sud-Ouest,CO53
+ST959,Kars,CO52
+ST960,Eskisehir,CO52
+ST961,Tochigi,CO42
+ST962,Calabria,CO10
+ST963,Jizzakh,CO126
+ST964,Lubusz,CO12
+ST965,Puno,CO114
+ST966,Basilicata,CO10
+ST967,Stara Zagora,CO99
+ST968,Primorsko-Goranska,CO120
+ST969,Tokat,CO52
+ST970,Moquegua,CO114
+ST971,Khorezm,CO126
+ST972,Sivas,CO52
+ST973,Ogun,CO80
+ST974,Dhi Qar,CO62
+ST975,Okayama,CO42
+ST976,Central,CO61
+ST977,Almaty,CO136
+ST978,Imo,CO80
+ST979,Gulu,CO138
+ST980,Jujuy,CO47
+ST981,Kalimantan Selatan,CO20
+ST982,Anambra,CO80
+ST983,La Pampa,CO47
+ST984,Banská Bystrica,CO139
+ST985,Bujumbura-Mairie,CO142
+ST986,Jubbada Hoose,CO37
+ST987,Pazardzhik,CO99
+ST988,Hokkaido,CO42
+ST989,Tabora,CO11
+ST990,Neuquén,CO47
+ST991,Mopti,CO94
+ST992,Haute-Matsiatra,CO71
+ST993,Cajamarca,CO114
+ST994,Diyala,CO62
+ST995,Borgou,CO87
+ST996,La Rioja,CO47
+ST997,Yevrey,CO43
+ST998,Samsun,CO52
+ST999,Arad,CO51
+ST1000,Meta,CO32
+ST1001,Kafr Ash Shaykh,CO44
+ST1002,Morogoro,CO11
+ST1003,Erzurum,CO52
+ST1004,Tarapacá,CO89
+ST1005,Olomouc,CO85
+ST1006,Zamfara,CO80
+ST1007,Free State,CO41
+ST1008,Centrale,CO105
+ST1009,Salta,CO47
+ST1010,South Dublin,CO98
+ST1011,Ilam,CO22
+ST1012,Ningxia,CO8
+ST1013,Kumanovo,CO143
+ST1014,Al Marqab,CO95
+ST1015,Newfoundland,CO29
+ST1016,Šiauliai,CO46
+ST1017,Dolj,CO51
+ST1018,Ordu,CO52
+ST1019,Mary,CO135
+ST1020,Hedmark,CO77
+ST1021,Ivano-Frankivsk,CO26
+ST1022,Alibori,CO87
+ST1023,Isparta,CO52
+ST1024,Pwani,CO11
+ST1025,La Libertad,CO114
+ST1026,Eastern,CO60
+ST1027,Adamawa,CO80
+ST1028,Žilina,CO139
+ST1029,Ondo,CO80
+ST1030,Osun,CO80
+ST1031,Arges,CO51
+ST1032,'Ajman,CO132
+ST1033,Aomori,CO42
+ST1034,Bechar,CO78
+ST1035,Novosibirsk,CO43
+ST1036,Vrancea,CO51
+ST1037,Mashonaland West,CO125
+ST1038,Piura,CO114
+ST1039,Anseba,CO144
+ST1040,Litoral,CO145
+ST1041,Aksaray,CO52
+ST1042,Amasya,CO52
+ST1043,Abuja Capital Territory,CO80
+ST1044,Mpumalanga,CO41
+ST1045,Sirnak,CO52
+ST1046,Siirt,CO52
+ST1047,Tete,CO23
+ST1048,Atlantique,CO87
+ST1049,Lima,CO114
+ST1050,Namibe,CO56
+ST1051,Lori,CO146
+ST1052,Northern,CO115
+ST1053,Lambayeque,CO114
+ST1054,Splitsko-Dalmatinska,CO120
+ST1055,Kabardino-Balkariya,CO43
+ST1056,Extreme-Nord,CO53
+ST1057,Katsina,CO80
+ST1058,Liberec,CO85
+ST1059,Usti nad Labem,CO85
+ST1060,Hunedoara,CO51
+ST1061,Melilla,CO25
+ST1062,Cojedes,CO96
+ST1063,Jinja,CO138
+ST1064,Gangwon,CO79
+ST1065,Northern,CO61
+ST1066,Gombe,CO80
+ST1067,Klaipeda,CO46
+ST1068,Mérida,CO96
+ST1069,Sokoto,CO80
+ST1070,Ardahan,CO52
+ST1071,Cabo Delgado,CO23
+ST1072,Guelmim-Es Semara,CO28
+ST1073,South Chungcheong,CO79
+ST1074,Ar Raqqah,CO91
+ST1075,Yalova,CO52
+ST1076,Pleven,CO99
+ST1077,Suceava,CO51
+ST1078,Atsimo-Andrefana,CO71
+ST1079,Malanje,CO56
+ST1080,Monseñor Nouel,CO18
+ST1081,Atsinanana,CO71
+ST1082,Kara,CO105
+ST1083,Rivera,CO21
+ST1084,South Khorasan,CO22
+ST1085,Grand Gedeh,CO63
+ST1086,Catamarca,CO47
+ST1087,St. Gallen,CO65
+ST1088,Central,CO60
+ST1089,Nagano,CO42
+ST1090,Afyonkarahisar,CO52
+ST1091,Karaman,CO52
+ST1092,Al Hudaydah,CO130
+ST1093,Diffa,CO110
+ST1094,Kastamonu,CO52
+ST1095,Kilis,CO52
+ST1096,Caras-Severin,CO51
+ST1097,Usak,CO52
+ST1098,Korçë,CO66
+ST1099,Maluku,CO20
+ST1100,Casanare,CO32
+ST1101,Táchira,CO96
+ST1102,Inhambane,CO23
+ST1103,Matruh,CO44
+ST1104,Tottori,CO42
+ST1105,Semnan,CO22
+ST1106,Osjecko-Baranjska,CO120
+ST1107,Rize,CO52
+ST1108,Central Jutland,CO109
+ST1109,Zhambyl,CO136
+ST1110,Ebonyi,CO80
+ST1111,Córdoba,CO32
+ST1112,Bitola,CO143
+ST1113,Edirne,CO52
+ST1114,Pernik,CO99
+ST1115,Mono,CO87
+ST1116,Manicaland,CO125
+ST1117,Kabarole,CO138
+ST1118,Matabeleland North,CO125

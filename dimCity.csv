@@ -1,0 +1,3813 @@
+CityID,City,StateID
+CI0,New York City,ST0
+CI1,Wollongong,ST1
+CI2,Brisbane,ST2
+CI3,Berlin,ST3
+CI4,Dakar,ST4
+CI5,Sydney,ST1
+CI6,Porirua,ST5
+CI7,Hamilton,ST6
+CI8,Sacramento,ST7
+CI9,Concord,ST8
+CI10,Alexandria,ST9
+CI11,Kabul,ST10
+CI12,Jizan,ST11
+CI13,Toledo,ST12
+CI14,Mudanjiang,ST13
+CI15,Paris,ST14
+CI16,Henderson,ST15
+CI17,Prato,ST16
+CI18,Townsville,ST2
+CI19,Uvinza,ST17
+CI20,Bytom,ST18
+CI21,Chicago,ST19
+CI22,Suzhou,ST20
+CI23,Edinburgh,ST21
+CI24,Juárez,ST22
+CI25,Soyapango,ST23
+CI26,Taipei,ST24
+CI27,Leipzig,ST25
+CI28,Los Angeles,ST7
+CI29,Surat,ST26
+CI30,Santo Domingo,ST27
+CI31,Saint-Brieuc,ST28
+CI32,Amarillo,ST29
+CI33,Gold Coast,ST2
+CI34,Fresno,ST7
+CI35,Kamina,ST30
+CI36,Burlington,ST8
+CI37,Stockton-on-Tees,ST31
+CI38,Mataram,ST32
+CI39,Gorakhpur,ST33
+CI40,Thiruvananthapuram,ST34
+CI41,Huddersfield,ST31
+CI42,Minneapolis,ST35
+CI43,Montreuil,ST14
+CI44,Shouguang,ST36
+CI45,Jamshedpur,ST37
+CI46,Paysandú,ST38
+CI47,Behshahr,ST39
+CI48,Huntington Beach,ST7
+CI49,Maputo,ST40
+CI50,Bhopal,ST41
+CI51,Seattle,ST42
+CI52,Delhi,ST43
+CI53,Geraldton,ST44
+CI54,Tallahassee,ST45
+CI55,Dhaka,ST46
+CI56,Munster,ST47
+CI57,Celle,ST47
+CI58,Wuxi,ST48
+CI59,Richmond,ST9
+CI60,Seville,ST49
+CI61,Raipur,ST50
+CI62,Gómez Palacio,ST51
+CI63,Kharkiv,ST52
+CI64,Jinan,ST36
+CI65,Chinandega,ST53
+CI66,Kananga,ST54
+CI67,Palembang,ST55
+CI68,London,ST31
+CI69,Melbourne,ST56
+CI70,Atlanta,ST57
+CI71,Duisburg,ST58
+CI72,Nanchong,ST59
+CI73,Naihati,ST60
+CI74,Lille,ST61
+CI75,Meknes,ST62
+CI76,Jackson,ST63
+CI77,Philadelphia,ST64
+CI78,Krefeld,ST58
+CI79,Bandung,ST65
+CI80,Casablanca,ST66
+CI81,Tongi,ST46
+CI82,Henderson,ST67
+CI83,Montréal,ST68
+CI84,Manila,ST69
+CI85,Newcastle,ST1
+CI86,Graz,ST70
+CI87,Nowra,ST1
+CI88,Boulogne-Billancourt,ST14
+CI89,Malakoff,ST14
+CI90,Kinshasa,ST71
+CI91,Perth,ST44
+CI92,Le Bouscat,ST72
+CI93,Puebla,ST73
+CI94,Augsburg,ST74
+CI95,Nice,ST75
+CI96,Medellín,ST76
+CI97,Bergen op Zoom,ST77
+CI98,Lakewood,ST78
+CI99,Hanover,ST47
+CI100,Vigo,ST79
+CI101,Gaoyou,ST48
+CI102,Bremen,ST80
+CI103,Muret,ST81
+CI104,Zigong,ST59
+CI105,Adelaide,ST82
+CI106,Detroit,ST63
+CI107,Chelles,ST14
+CI108,Kuantan,ST83
+CI109,Harrisonburg,ST9
+CI110,Everett,ST84
+CI111,Quito,ST85
+CI112,Vadodara,ST26
+CI113,Sanya,ST86
+CI114,Bangkok,ST87
+CI115,San Diego,ST7
+CI116,Tasikmalaya,ST65
+CI117,Guaymas,ST88
+CI118,Wuhan,ST89
+CI119,Madison,ST90
+CI120,Salto,ST91
+CI121,Treviso,ST92
+CI122,Hargeysa,ST93
+CI123,Long Beach,ST7
+CI124,Yogyakarta,ST94
+CI125,Anshan,ST95
+CI126,Amsterdam,ST96
+CI127,Le Petit-Quevilly,ST97
+CI128,Bochum,ST58
+CI129,Hamburg,ST98
+CI130,Houston,ST29
+CI131,Mixco,ST99
+CI132,Yonkers,ST0
+CI133,Morelia,ST100
+CI134,Changchun,ST101
+CI135,Madrid,ST102
+CI136,Jeddah,ST103
+CI137,Norman,ST104
+CI138,Medan,ST105
+CI139,Jakarta,ST106
+CI140,Lancaster,ST107
+CI141,Surakarta,ST108
+CI142,Beijing,ST109
+CI143,Tulancingo,ST110
+CI144,Brest,ST111
+CI145,Valencia,ST112
+CI146,Charlotte,ST8
+CI147,Zhytomyr,ST113
+CI148,Argenteuil,ST14
+CI149,Talence,ST72
+CI150,Aurangabad,ST114
+CI151,Plaisir,ST14
+CI152,Harrogate,ST31
+CI153,Phnom Penh,ST115
+CI154,Mackay,ST2
+CI155,North Las Vegas,ST67
+CI156,Jambi,ST116
+CI157,Moers,ST58
+CI158,Newark,ST117
+CI159,Shenzhen,ST118
+CI160,Launceston,ST119
+CI161,Marikina,ST69
+CI162,Johannesburg,ST120
+CI163,Barakaldo,ST121
+CI164,Providence,ST122
+CI165,Long Beach,ST0
+CI166,Qingdao,ST36
+CI167,San Francisco,ST7
+CI168,Shiraz,ST123
+CI169,Bokaro,ST37
+CI170,Fuji,ST124
+CI171,Benidorm,ST112
+CI172,Kozhikode,ST34
+CI173,Kuala Lumpur,ST125
+CI174,Astrakhan',ST126
+CI175,Columbus,ST107
+CI176,Xiangtan,ST127
+CI177,Shaoxing,ST128
+CI178,Jabalpur,ST41
+CI179,Patna,ST114
+CI180,La Baule-Escoublac,ST129
+CI181,Dijon,ST130
+CI182,Cape Town,ST131
+CI183,Cairo,ST132
+CI184,West Bromwich,ST31
+CI185,Baku,ST133
+CI186,Burnley,ST31
+CI187,Laval,ST129
+CI188,Vilnius,ST134
+CI189,Buenos Aires,ST135
+CI190,Girga,ST136
+CI191,Kochi,ST34
+CI192,Maseru,ST137
+CI193,Wellington,ST5
+CI194,Luoyang,ST138
+CI195,Feira de Santana,ST139
+CI196,Matagalpa,ST140
+CI197,Virginia Beach,ST9
+CI198,Managua,ST141
+CI199,Wuhai,ST142
+CI200,Nantes,ST129
+CI201,Strasbourg,ST143
+CI202,Surabaya,ST144
+CI203,Tupã,ST91
+CI204,Vienna,ST145
+CI205,Mexico City,ST146
+CI206,Hobart,ST119
+CI207,Hirakata,ST147
+CI208,Preston,ST31
+CI209,Agra,ST148
+CI210,Granollers,ST149
+CI211,Ho Chi Minh City,ST150
+CI212,Camagüey,ST151
+CI213,Morristown,ST78
+CI214,Piatra-Neamt,ST152
+CI215,Milpa Alta,ST146
+CI216,León,ST153
+CI217,Izmir,ST154
+CI218,Coyoacán,ST146
+CI219,Manukau City,ST155
+CI220,Yaounde,ST156
+CI221,Newcastle upon Tyne,ST31
+CI222,Dehra Dun,ST50
+CI223,Santander,ST157
+CI224,Cangzhou,ST158
+CI225,Shanghai,ST159
+CI226,León,ST160
+CI227,Rybinsk,ST161
+CI228,Ibiúna,ST91
+CI229,Canberra,ST162
+CI230,Port Elizabeth,ST163
+CI231,Newark,ST107
+CI232,Cambridge,ST31
+CI233,Kota,ST164
+CI234,Christchurch,ST165
+CI235,Vincennes,ST14
+CI236,Chongqing,ST166
+CI237,Gyula,ST167
+CI238,Lucknow,ST148
+CI239,Florence,ST15
+CI240,Turin,ST168
+CI241,Springfield,ST169
+CI242,Singapore,ST170
+CI243,Benguela,ST171
+CI244,Lafayette,ST172
+CI245,Himeji,ST173
+CI246,Kendari,ST174
+CI247,Mejicanos,ST23
+CI248,Barcelona,ST149
+CI249,Menton,ST75
+CI250,Huntsville,ST175
+CI251,Clermont-Ferrand,ST176
+CI252,Buzau,ST177
+CI253,Bayeux,ST178
+CI254,Columbus,ST57
+CI255,San Antonio,ST29
+CI256,Darwin,ST179
+CI257,Jamestown,ST0
+CI258,Bayeux,ST180
+CI259,Lens,ST61
+CI260,Lannion,ST28
+CI261,Iserlohn,ST58
+CI262,Kalemie,ST30
+CI263,Ghent,ST181
+CI264,Indianapolis,ST172
+CI265,Marseille,ST75
+CI266,Lahore,ST182
+CI267,Grenoble,ST183
+CI268,Espoo,ST184
+CI269,Whyalla,ST82
+CI270,Ivry-sur-Seine,ST14
+CI271,Kanpur,ST148
+CI272,Saint-Laurent-du-Var,ST75
+CI273,Cartagena,ST185
+CI274,Cancún,ST186
+CI275,Harbin,ST13
+CI276,Kumasi,ST187
+CI277,Salem,ST188
+CI278,Angers,ST129
+CI279,Khorramabad,ST189
+CI280,Chennai,ST188
+CI281,Barletta,ST190
+CI282,Tamworth,ST31
+CI283,Kulti,ST60
+CI284,Le Mans,ST129
+CI285,Mianyang,ST59
+CI286,Cadereyta,ST191
+CI287,Bundaberg,ST2
+CI288,Valparaíso de Goiás,ST192
+CI289,Manado,ST193
+CI290,Muzaffarpur,ST114
+CI291,Kermanshah,ST194
+CI292,Thane,ST195
+CI293,Piedecuesta,ST196
+CI294,Bangalore,ST197
+CI295,Xiamen,ST198
+CI296,Kitwe,ST199
+CI297,Jieyang,ST118
+CI298,Hamamatsu,ST124
+CI299,Ningbo,ST128
+CI300,Jodhpur,ST200
+CI301,Weimar,ST201
+CI302,Auckland,ST155
+CI303,Lubumbashi,ST30
+CI304,Franklin,ST90
+CI305,Omaha,ST202
+CI306,Nagpur,ST195
+CI307,Villahermosa,ST203
+CI308,Oyonnax,ST183
+CI309,Metepec,ST204
+CI310,Santa Ana,ST7
+CI311,Antony,ST14
+CI312,Culiacán,ST205
+CI313,Mobile,ST175
+CI314,Al Amarah,ST206
+CI315,Mashhad,ST207
+CI316,Springfield,ST9
+CI317,Bhavnagar,ST26
+CI318,Rome,ST208
+CI319,Palma de Mallorca,ST209
+CI320,Saint-Priest,ST183
+CI321,Gyor,ST210
+CI322,Monrovia,ST211
+CI323,Santiago de Cuba,ST212
+CI324,Bogotá,ST213
+CI325,Erlangen,ST74
+CI326,Tbilisi,ST214
+CI327,Jaipur,ST200
+CI328,Suzhou,ST215
+CI329,Reggio nell'Emilia,ST216
+CI330,Azcapotzalco,ST146
+CI331,Lublin,ST217
+CI332,Zurich,ST218
+CI333,Elbasan,ST219
+CI334,Voronezh,ST220
+CI335,Shimonoseki,ST221
+CI336,Palu,ST222
+CI337,Imphal,ST223
+CI338,Shenyang,ST95
+CI339,Bethlehem,ST64
+CI340,Koumra,ST224
+CI341,Ballarat,ST56
+CI342,Podgorica,ST225
+CI343,Ribeirão Preto,ST91
+CI344,Zapopan,ST226
+CI345,Guelph,ST227
+CI346,Bellingham,ST42
+CI347,Bordeaux,ST72
+CI348,Hamadan,ST228
+CI349,Windhoek,ST229
+CI350,Eindhoven,ST77
+CI351,Quetzaltenango,ST230
+CI352,Antiguo Cuscatlán,ST231
+CI353,Cranston,ST122
+CI354,Guantánamo,ST232
+CI355,Bacolod City,ST233
+CI356,Kwinana,ST44
+CI357,Deuil-la-Barre,ST14
+CI358,Lafayette,ST234
+CI359,Lisbon,ST235
+CI360,Jhansi,ST148
+CI361,Amravati,ST195
+CI362,Wafangdian,ST95
+CI363,San Juan de la Maguana,ST236
+CI364,Antananarivo,ST237
+CI365,Ufa,ST238
+CI366,Tehran,ST239
+CI367,Bendigo,ST56
+CI368,Quetta,ST240
+CI369,Rovigo,ST92
+CI370,Soacha,ST241
+CI371,Dudley,ST31
+CI372,Ris-Orangis,ST14
+CI373,Levallois-Perret,ST14
+CI374,Luts'k,ST242
+CI375,San Salvador,ST23
+CI376,Lorain,ST107
+CI377,Stoke-on-Trent,ST31
+CI378,São Paulo,ST91
+CI379,Huaibei,ST20
+CI380,Lehi,ST243
+CI381,Masterton,ST5
+CI382,Whangarei,ST244
+CI383,Kunming,ST245
+CI384,Columbia,ST169
+CI385,Vancouver,ST246
+CI386,Pamplona,ST247
+CI387,Haninge,ST248
+CI388,Oviedo,ST249
+CI389,Carrollton,ST29
+CI390,Nasik,ST195
+CI391,Torrevieja,ST112
+CI392,Ube,ST221
+CI393,Pozzuoli,ST250
+CI394,Poltava,ST251
+CI395,Depok,ST94
+CI396,Regensburg,ST74
+CI397,Visakhapatnam,ST252
+CI398,Clamart,ST14
+CI399,Garbsen,ST47
+CI400,Jixi,ST13
+CI401,Potchefstroom,ST253
+CI402,Vladimir,ST254
+CI403,Burgos,ST255
+CI404,Kollam,ST34
+CI405,Yangon,ST256
+CI406,Bondy,ST14
+CI407,Mont-de-Marsan,ST72
+CI408,Lyon,ST183
+CI409,Depok,ST65
+CI410,Santo André,ST91
+CI411,Menden,ST58
+CI412,Spanish Town,ST257
+CI413,Taupo,ST6
+CI414,Fengcheng,ST95
+CI415,Vernon,ST97
+CI416,Tianjin,ST258
+CI417,Chihuahua,ST22
+CI418,Elx,ST112
+CI419,Santa Cruz de Barahona,ST259
+CI420,Brasília,ST260
+CI421,Lanzhou,ST215
+CI422,Bologna,ST216
+CI423,Alice Springs,ST179
+CI424,Doha,ST261
+CI425,Velletri,ST208
+CI426,Matsubara,ST262
+CI427,Gloucester,ST31
+CI428,Puteaux,ST14
+CI429,Geelong,ST56
+CI430,Whakatane,ST263
+CI431,Açu,ST264
+CI432,Colchester,ST31
+CI433,Sandy Springs,ST57
+CI434,Montpellier,ST265
+CI435,Wetzlar,ST266
+CI436,Cleveland,ST107
+CI437,Shashi,ST89
+CI438,Chaoyang,ST101
+CI439,Rugby,ST31
+CI440,Round Rock,ST29
+CI441,Saint-Chamond,ST183
+CI442,Fontenay-aux-Roses,ST14
+CI443,Baotou,ST142
+CI444,Fort Worth,ST29
+CI445,Joinville,ST267
+CI446,Colombo,ST12
+CI447,Dover,ST268
+CI448,Jining,ST36
+CI449,Zhenjiang,ST48
+CI450,York,ST31
+CI451,Jining,ST142
+CI452,Mérida,ST269
+CI453,Villa Nueva,ST99
+CI454,Annecy-le-Vieux,ST183
+CI455,Drancy,ST14
+CI456,Jacksonville,ST45
+CI457,Dar es Salaam,ST270
+CI458,Nuremberg,ST74
+CI459,Concord,ST7
+CI460,Macheng,ST89
+CI461,Beni Mellal,ST271
+CI462,Roswell,ST57
+CI463,Madurai,ST188
+CI464,Dortmund,ST58
+CI465,Loubomo,ST272
+CI466,Jiangmen,ST118
+CI467,Troy,ST107
+CI468,Kaliningrad,ST273
+CI469,Kristiansand,ST274
+CI470,Ad Diwaniyah,ST275
+CI471,Bayonne,ST72
+CI472,Avondale,ST276
+CI473,Fairfield,ST107
+CI474,San José de las Lajas,ST277
+CI475,Algiers,ST278
+CI476,Lowell,ST84
+CI477,Istanbul,ST279
+CI478,Kaunas,ST280
+CI479,Ardabil,ST281
+CI480,Mexicali,ST282
+CI481,Mecca,ST103
+CI482,Alexandria,ST283
+CI483,Queanbeyan,ST1
+CI484,Guilin,ST284
+CI485,Gaomi,ST36
+CI486,Pretoria,ST120
+CI487,Blackpool,ST31
+CI488,Schwerin,ST285
+CI489,Aligarh,ST148
+CI490,Trento,ST286
+CI491,Ravenna,ST216
+CI492,Basel,ST287
+CI493,Matola,ST288
+CI494,Poitiers,ST289
+CI495,Seoul,ST290
+CI496,Mulhouse,ST143
+CI497,Milan,ST291
+CI498,Kota Kinabalu,ST292
+CI499,Denver,ST293
+CI500,Uberaba,ST294
+CI501,Rueil-Malmaison,ST14
+CI502,Crawley,ST31
+CI503,Makurdi,ST295
+CI504,Tallinn,ST296
+CI505,Swansea,ST297
+CI506,Paranaguá,ST12
+CI507,Samarinda,ST298
+CI508,Vijayawada,ST252
+CI509,Bandirma,ST299
+CI510,Gagnoa,ST300
+CI511,Tegucigalpa,ST301
+CI512,Villiers-le-Bel,ST14
+CI513,Brampton,ST227
+CI514,Columbia,ST302
+CI515,Tlaquepaque,ST226
+CI516,Saint-Denis,ST14
+CI517,Mangalore,ST197
+CI518,Sancti Spíritus,ST303
+CI519,Indaial,ST267
+CI520,Bergen,ST304
+CI521,Riyadh,ST305
+CI522,Lucerne,ST306
+CI523,Fernando de la Mora,ST307
+CI524,Noblesville,ST172
+CI525,Malayer,ST228
+CI526,Mbuji-mayi,ST308
+CI527,Gwalior,ST41
+CI528,Luoyang,ST198
+CI529,Southend-on-Sea,ST31
+CI530,Thionville,ST309
+CI531,Srinagar,ST310
+CI532,Allahabad,ST148
+CI533,Bekasi,ST65
+CI534,Daloa,ST311
+CI535,Saltillo,ST312
+CI536,Anaheim,ST7
+CI537,Woking,ST31
+CI538,Baguio City,ST313
+CI539,Magnitogorsk,ST314
+CI540,Varanasi,ST148
+CI541,Serra,ST315
+CI542,Florence,ST16
+CI543,Raleigh,ST8
+CI544,Pescara,ST316
+CI545,Warwick,ST122
+CI546,Chittagong,ST317
+CI547,Monclova,ST312
+CI548,Worthing,ST31
+CI549,Lençóis Paulista,ST91
+CI550,Coffs Harbour,ST1
+CI551,Baghdad,ST318
+CI552,San Severo,ST190
+CI553,San Luis,ST319
+CI554,Guangzhou,ST118
+CI555,Tiruppur,ST188
+CI556,San Luis Potosí,ST320
+CI557,Le Chesnay,ST14
+CI558,Prague,ST321
+CI559,Lansing,ST63
+CI560,Dieppe,ST97
+CI561,Gap,ST75
+CI562,Redlands,ST7
+CI563,Shuangcheng,ST13
+CI564,Bangui,ST322
+CI565,Hastings,ST323
+CI566,Oakland,ST7
+CI567,Irapuato,ST153
+CI568,Xinyi,ST118
+CI569,Bhilwara,ST200
+CI570,Antwerp,ST324
+CI571,Orange,ST1
+CI572,Napier,ST323
+CI573,Torreón,ST312
+CI574,Noda,ST325
+CI575,Porto-Novo,ST326
+CI576,Outreau,ST61
+CI577,Burlington,ST327
+CI578,Muskogee,ST104
+CI579,Bourg-en-Bresse,ST183
+CI580,Americana,ST91
+CI581,Kashan,ST328
+CI582,Sunbury,ST56
+CI583,Herford,ST58
+CI584,Chesapeake,ST9
+CI585,Cairns,ST2
+CI586,L'viv,ST329
+CI587,Oslo,ST330
+CI588,Arbil,ST331
+CI589,Des Moines,ST42
+CI590,Bradford,ST31
+CI591,San Pedro de Macorís,ST332
+CI592,Estelí,ST333
+CI593,San Sebastian,ST121
+CI594,Schiltigheim,ST143
+CI595,Milwaukee,ST90
+CI596,Consolación del Sur,ST334
+CI597,Tangier,ST335
+CI598,Oruro,ST336
+CI599,Munich,ST74
+CI600,Malegaon,ST195
+CI601,Euskirchen,ST58
+CI602,Sakai,ST337
+CI603,Blagoveshchensk,ST338
+CI604,Tijuana,ST282
+CI605,Hyderabad,ST339
+CI606,Villeneuve-Saint-Georges,ST14
+CI607,Takasaki,ST337
+CI608,Bhilai,ST164
+CI609,Santa Barbara,ST7
+CI610,Rochester,ST0
+CI611,Durres,ST340
+CI612,Frankfurt,ST266
+CI613,Anqing,ST20
+CI614,Victoria,ST341
+CI615,San Gabriel,ST7
+CI616,Copiapó,ST342
+CI617,Cincinnati,ST107
+CI618,Ensenada,ST282
+CI619,La Romana,ST343
+CI620,Fort-de-France,ST344
+CI621,Kingswood,ST31
+CI622,Trier,ST345
+CI623,Leeds,ST31
+CI624,Luoyang,ST118
+CI625,Petrópolis,ST346
+CI626,Vantaa,ST184
+CI627,Watertown,ST0
+CI628,Noisy-le-Grand,ST14
+CI629,Homs,ST347
+CI630,Liaoyang,ST95
+CI631,Fayetteville,ST8
+CI632,Araguaína,ST348
+CI633,Denpasar,ST349
+CI634,Toulon,ST75
+CI635,Pune,ST195
+CI636,Tucson,ST276
+CI637,Miami,ST45
+CI638,Goyang,ST350
+CI639,Kalyan,ST195
+CI640,Khulna,ST351
+CI641,Avadi,ST188
+CI642,Semarang,ST108
+CI643,Stuttgart,ST352
+CI644,Chelyabinsk,ST314
+CI645,Zhanjiang,ST118
+CI646,Greenville,ST8
+CI647,Yueyang,ST127
+CI648,Pueblo,ST293
+CI649,Reutlingen,ST352
+CI650,Arras,ST61
+CI651,Matsudo,ST325
+CI652,Bayamo,ST353
+CI653,Reynosa,ST341
+CI654,Chester,ST31
+CI655,Rostock,ST285
+CI656,Namur,ST354
+CI657,Aachen,ST58
+CI658,Rasht,ST355
+CI659,Grajaú,ST356
+CI660,Koshigaya,ST357
+CI661,Beirut,ST358
+CI662,Huelva,ST49
+CI663,Hefei,ST20
+CI664,Louisville,ST15
+CI665,Valenzuela,ST69
+CI666,Thanjavur,ST188
+CI667,Tegal,ST108
+CI668,Kitchener,ST227
+CI669,Sevran,ST14
+CI670,Hastings,ST31
+CI671,Halmstad,ST359
+CI672,Amstelveen,ST96
+CI673,Portici,ST250
+CI674,Toledo,ST107
+CI675,Sparks,ST67
+CI676,Murray Bridge,ST82
+CI677,Tengzhou,ST36
+CI678,Bagneux,ST14
+CI679,Balikpapan,ST298
+CI680,Bhatinda,ST360
+CI681,Poza Rica de Hidalgo,ST361
+CI682,Colmar,ST143
+CI683,Clichy-sous-Bois,ST14
+CI684,La Seyne-sur-Mer,ST75
+CI685,Antipolo,ST362
+CI686,Creil,ST363
+CI687,Curitiba,ST12
+CI688,Sale,ST364
+CI689,Albury,ST1
+CI690,Kutahya,ST365
+CI691,Daqing,ST13
+CI692,Waynesboro,ST9
+CI693,Rockhampton,ST2
+CI694,Accra,ST366
+CI695,Conselheiro Lafaiete,ST294
+CI696,Jiangdu,ST48
+CI697,Cochabamba,ST367
+CI698,Wolverhampton,ST31
+CI699,Mumbai,ST195
+CI700,Caloundra,ST2
+CI701,Talcahuano,ST368
+CI702,Santiago,ST369
+CI703,Nairobi,ST370
+CI704,Aurora,ST19
+CI705,New Plymouth,ST371
+CI706,Sesto San Giovanni,ST291
+CI707,Florence,ST175
+CI708,Tangshan,ST158
+CI709,Edmonton,ST372
+CI710,Lismore,ST1
+CI711,Sikasso,ST373
+CI712,Macapá,ST374
+CI713,Nottingham,ST31
+CI714,Mandurah,ST44
+CI715,Venice,ST92
+CI716,Dormagen,ST58
+CI717,Bilbao,ST121
+CI718,Bagcilar,ST279
+CI719,Bressuire,ST289
+CI720,Houilles,ST14
+CI721,Solapur,ST195
+CI722,Capannori,ST16
+CI723,Kawagoe,ST357
+CI724,Yangzhou,ST48
+CI725,Monterrey,ST191
+CI726,Ann Arbor,ST63
+CI727,Misratah,ST375
+CI728,Tlalpan,ST146
+CI729,Matanzas,ST376
+CI730,Can Tho,
+CI731,Greenwood,ST172
+CI732,Las Tunas,ST378
+CI733,Phoenix,ST276
+CI734,Villeneuve-le-Roi,ST14
+CI735,Vitrolles,ST75
+CI736,Tiruchchirappalli,ST188
+CI737,Hengyang,ST127
+CI738,Hialeah,ST45
+CI739,Marietta,ST57
+CI740,Ilopango,ST23
+CI741,Torbali,ST154
+CI742,Bhiwandi,ST195
+CI743,Palmerston North,ST379
+CI744,Kaifeng,ST138
+CI745,Thornton,ST293
+CI746,Georgetown,ST15
+CI747,Villa Alemana,ST380
+CI748,Tlalnepantla,ST204
+CI749,São Gonçalo,ST346
+CI750,Richmond,ST15
+CI751,Katowice,ST18
+CI752,Carora,ST381
+CI753,Orihuela,ST112
+CI754,Tulsa,ST104
+CI755,Fasa,ST123
+CI756,San Fernando,ST382
+CI757,Mainz,ST345
+CI758,Gronau,ST58
+CI759,Bengbu,ST20
+CI760,Dublin,ST383
+CI761,Antibes,ST75
+CI762,Natal,ST264
+CI763,Concarneau,ST28
+CI764,Lakeland,ST45
+CI765,Brentwood,ST7
+CI766,Solingen,ST58
+CI767,Palmerston,ST179
+CI768,Marrakech,ST384
+CI769,Cologne,ST58
+CI770,Reading,ST31
+CI771,Xinshi,ST89
+CI772,Sofia,ST385
+CI773,Kryvyy Rih,ST386
+CI774,Cachan,ST14
+CI775,Carlisle,ST31
+CI776,Pleasant Grove,ST243
+CI777,Montenegro,ST387
+CI778,Asheville,ST8
+CI779,Ipoh,ST388
+CI780,Xiaogan,ST89
+CI781,Yuci,ST389
+CI782,Makhachkala,ST390
+CI783,Gongzhuling,ST101
+CI784,Devonport,ST119
+CI785,Bottrop,ST58
+CI786,Jember,ST144
+CI787,Shulan,ST101
+CI788,Ulm,ST352
+CI789,Sheffield,ST31
+CI790,Guelma,ST391
+CI791,Stockholm,ST248
+CI792,Liaocheng,ST36
+CI793,Innsbruck,ST392
+CI794,Shantou,ST118
+CI795,Rockford,ST19
+CI796,Panama City,ST393
+CI797,Cabo de Santo Agostinho,ST394
+CI798,Castrop-Rauxel,ST58
+CI799,Saint-Germain-en-Laye,ST14
+CI800,Cuttack,ST395
+CI801,Tilburg,ST77
+CI802,Parla,ST102
+CI803,Ludhiana,ST360
+CI804,Xinzhou,ST389
+CI805,Glendale,ST276
+CI806,La Rochelle,ST289
+CI807,Soledad,ST396
+CI808,Ramat Aviv,ST397
+CI809,Paulista,ST394
+CI810,Wagga Wagga,ST1
+CI811,Lunel,ST265
+CI812,Cajazeiras,ST178
+CI813,Laiyang,ST36
+CI814,Guyancourt,ST14
+CI815,Zamora,ST255
+CI816,Dallas,ST29
+CI817,Lagos,ST398
+CI818,Ninghai,ST36
+CI819,Bogor,ST65
+CI820,Nancy,ST309
+CI821,Bello,ST76
+CI822,Chimaltenango,ST399
+CI823,Toronto,ST227
+CI824,El Prat de Llobregat,ST149
+CI825,Pematangsiantar,ST105
+CI826,Albacete,ST400
+CI827,Santa Clara,ST401
+CI828,Maringá,ST12
+CI829,Osorno,ST402
+CI830,Brindisi,ST190
+CI831,Doncaster,ST31
+CI832,Fremont,ST202
+CI833,Santa Catarina,ST191
+CI834,Annaba,ST403
+CI835,Utrecht,ST404
+CI836,Nagasaki,ST405
+CI837,Albany,ST44
+CI838,Las Pinas,ST69
+CI839,Westminster,ST7
+CI840,Shah Alam,ST406
+CI841,Birmingham,ST31
+CI842,Rach Gia,ST407
+CI843,Dongguan,ST118
+CI844,Fontainebleau,ST14
+CI845,Santa Cruz de la Sierra,ST408
+CI846,Donets'k,ST409
+CI847,Jacksonville,ST8
+CI848,Cardiff,ST297
+CI849,Spokane,ST42
+CI850,Villeurbanne,ST183
+CI851,Nicolás Romero,ST204
+CI852,Chililabombwe,ST199
+CI853,Baltimore,ST302
+CI854,Nanterre,ST14
+CI855,Shihezi,ST410
+CI856,Givors,ST183
+CI857,Carrefour,ST411
+CI858,Brasov,ST412
+CI859,Vichy,ST176
+CI860,Kure,ST413
+CI861,Derby,ST31
+CI862,Arnhem,ST414
+CI863,Aprilia,ST208
+CI864,Waitakere,ST155
+CI865,Fargo,ST415
+CI866,Aurora,ST293
+CI867,Hanoi,
+CI868,Genk,ST417
+CI869,Castanhal,ST418
+CI870,La Spezia,ST419
+CI871,Jiangyan,ST48
+CI872,Wilmington,ST117
+CI873,Fairfield,ST420
+CI874,Littlehampton,ST31
+CI875,Padang,ST421
+CI876,Yunyang,ST138
+CI877,Fatehpur,ST200
+CI878,Changshu,ST48
+CI879,Quevedo,ST422
+CI880,Changzhou,ST48
+CI881,Sakaka,ST423
+CI882,Saint-Dizier,ST424
+CI883,Stourbridge,ST31
+CI884,Presidente Dutra,ST356
+CI885,El Paso,ST29
+CI886,Bognor Regis,ST31
+CI887,Xuzhou,ST48
+CI888,Ninghai,ST128
+CI889,Bridgetown,ST425
+CI890,Fort Lauderdale,ST45
+CI891,Beauvais,ST363
+CI892,South Shields,ST31
+CI893,Manchester,ST420
+CI894,Nuevo Laredo,ST341
+CI895,Kano,ST426
+CI896,Dewas,ST41
+CI897,Puertollano,ST400
+CI898,Lawrence,ST84
+CI899,Bonn,ST58
+CI900,Danville,ST7
+CI901,Arles,ST75
+CI902,Murcia,ST427
+CI903,Liverpool,ST31
+CI904,Fes,ST428
+CI905,Farnborough,ST31
+CI906,Suining,ST59
+CI907,Herne,ST58
+CI908,Ciego de Ávila,ST429
+CI909,Arkhangelsk,ST430
+CI910,Ljubljana,ST431
+CI911,Marion,ST107
+CI912,Mount Isa,ST2
+CI913,Nizhyn,ST432
+CI914,Bamako,ST433
+CI915,Montevideo,ST434
+CI916,Tepic,ST435
+CI917,Dnipropetrovs'k,ST386
+CI918,Gorakhpur,ST148
+CI919,Catania,ST436
+CI920,Grigny,ST14
+CI921,Yibin,ST59
+CI922,Mahajanga,ST437
+CI923,Saida,ST438
+CI924,Cergy,ST14
+CI925,Arzgir,ST439
+CI926,Gravesend,ST31
+CI927,Mentougou,ST109
+CI928,Nampula,ST440
+CI929,Edmonds,ST42
+CI930,Traralgon,ST56
+CI931,Vinnytsya,ST441
+CI932,Evanston,ST19
+CI933,Bossier City,ST234
+CI934,Timaru,ST165
+CI935,Libourne,ST72
+CI936,Tampa,ST45
+CI937,Ashdod,ST442
+CI938,Patrocínio,ST294
+CI939,Slough,ST31
+CI940,Rennes,ST28
+CI941,Datong,ST389
+CI942,Oberhausen,ST58
+CI943,Chipata,ST443
+CI944,Galati,ST444
+CI945,Toowoomba,ST2
+CI946,Bry-sur-Marne,ST14
+CI947,Balneário Camboriú,ST267
+CI948,Dreux,ST445
+CI949,Toulouse,ST81
+CI950,Benghazi,ST446
+CI951,Bacoor,ST362
+CI952,Nanning,ST284
+CI953,Stolberg,ST58
+CI954,Bari,ST190
+CI955,Xining,ST447
+CI956,Tabuk,ST448
+CI957,Guiyang,ST449
+CI958,Durango,ST51
+CI959,Kenosha,ST90
+CI960,Tokyo,ST450
+CI961,Bene Beraq,ST397
+CI962,Rotherham,ST31
+CI963,Cork,ST451
+CI964,Columbus,ST172
+CI965,Roodepoort,ST120
+CI966,Fontaine,ST183
+CI967,Rabat,ST364
+CI968,Temecula,ST7
+CI969,José Bonifácio,ST91
+CI970,Lusaka,ST452
+CI971,Basra,ST453
+CI972,Apple Valley,ST7
+CI973,Meizhou,ST118
+CI974,Guasave,ST205
+CI975,Richardson,ST29
+CI976,Santana de Parnaíba,ST91
+CI977,Montgomery,ST175
+CI978,Austin,ST29
+CI979,Aubervilliers,ST14
+CI980,Upper Hutt,ST5
+CI981,Neuilly-sur-Seine,ST14
+CI982,Faridabad,ST33
+CI983,Fairfield,ST7
+CI984,Santa Ana,ST454
+CI985,Le Havre,ST97
+CI986,Mwanza,ST455
+CI987,Orem,ST243
+CI988,Petapa,ST99
+CI989,Newport News,ST9
+CI990,Miramas,ST75
+CI991,Mabopane,ST120
+CI992,David,ST456
+CI993,Dos Hermanas,ST49
+CI994,Villa Frontera,ST312
+CI995,Franklin,ST84
+CI996,Suzhou,ST48
+CI997,Hartlepool,ST31
+CI998,Orizaba,ST361
+CI999,Lázaro Cárdenas,ST100
+CI1000,Busan,ST457
+CI1001,Pearland,ST29
+CI1002,Holguín,ST458
+CI1003,Korba,ST164
+CI1004,Viterbo,ST208
+CI1005,Carcassonne,ST265
+CI1006,Villach,ST459
+CI1007,Altamura,ST190
+CI1008,Longmont,ST293
+CI1009,Ezhou,ST89
+CI1010,Escuintla,ST460
+CI1011,Gujranwala,ST182
+CI1012,Jena,ST201
+CI1013,Oxford,ST31
+CI1014,Anantapur,ST252
+CI1015,Qom,ST461
+CI1016,Jiaozuo,ST138
+CI1017,Portsmouth,ST31
+CI1018,Hildesheim,ST47
+CI1019,Sunderland,ST31
+CI1020,Al Mahallah al Kubra,ST462
+CI1021,La Plata,ST463
+CI1022,Landskrona,ST464
+CI1023,Helsinki,ST184
+CI1024,Las Vegas,ST67
+CI1025,Budapest,ST465
+CI1026,Bath,ST31
+CI1027,Lome,ST466
+CI1028,Ferrara,ST216
+CI1029,Palaiseau,ST14
+CI1030,Gateshead,ST31
+CI1031,Saint-Louis,ST143
+CI1032,Plainfield,ST78
+CI1033,Itamaraju,ST139
+CI1034,Coventry,ST31
+CI1035,Villeneuve-d'Ascq,ST61
+CI1036,Mathura,ST148
+CI1037,Wilhelmshaven,ST47
+CI1038,Hurghada,ST467
+CI1039,Gaya,ST114
+CI1040,Toul,ST309
+CI1041,Arusha,ST468
+CI1042,Ibirité,ST294
+CI1043,Guadalajara,ST226
+CI1044,Ciudad del Carmen,ST469
+CI1045,Kolhapur,ST195
+CI1046,Valles,ST320
+CI1047,Beverly,ST84
+CI1048,Buffalo,ST0
+CI1049,Kassel,ST266
+CI1050,Greensboro,ST8
+CI1051,La Vega,ST470
+CI1052,Nouakchott,ST471
+CI1053,Saint-Louis,ST472
+CI1054,Santa Marta,ST473
+CI1055,Córdoba,ST474
+CI1056,George,ST131
+CI1057,Sindelfingen,ST352
+CI1058,Kawaguchi,ST325
+CI1059,Villa Canales,ST99
+CI1060,Zunyi,ST449
+CI1061,Wuchang,ST13
+CI1062,Hermosillo,ST88
+CI1063,Douai,ST61
+CI1064,Fukuyama,ST413
+CI1065,Dabrowa Gornicza,ST18
+CI1066,Essen,ST58
+CI1067,Gresham,ST475
+CI1068,Santiago de Compostela,ST79
+CI1069,Paraparaumu,ST5
+CI1070,San Juan,ST476
+CI1071,Manaus,ST477
+CI1072,Mantes-la-Jolie,ST14
+CI1073,Glasgow,ST21
+CI1074,Reno,ST67
+CI1075,Pontivy,ST28
+CI1076,Tauranga,ST263
+CI1077,The Hague,ST478
+CI1078,Karlstad,ST479
+CI1079,Rajkot,ST26
+CI1080,Satna,ST41
+CI1081,Yulin,ST480
+CI1082,Manzanillo,ST353
+CI1083,Karbala',ST481
+CI1084,Hrodna,ST482
+CI1085,Clarksville,ST483
+CI1086,Guangshui,ST89
+CI1087,Bikaner,ST200
+CI1088,Indore,ST41
+CI1089,Wigan,ST31
+CI1090,Beykoz,ST279
+CI1091,Le Cannet,ST75
+CI1092,Columbia,ST484
+CI1093,Tirupati,ST252
+CI1094,Manizales,ST485
+CI1095,Conflans-Sainte-Honorine,ST14
+CI1096,Leicester,ST31
+CI1097,Luanda,ST486
+CI1098,Mbandaka,ST487
+CI1099,Cuernavaca,ST488
+CI1100,San Pedro Sula,ST489
+CI1101,Jinjiang,ST198
+CI1102,Zhaoqing,ST118
+CI1103,Broken Arrow,ST104
+CI1104,Ponferrada,ST255
+CI1105,Yerres,ST14
+CI1106,Lawrence,ST172
+CI1107,Blenheim,ST490
+CI1108,Rillieux-la-Pape,ST183
+CI1109,Luohe,ST138
+CI1110,Spijkenisse,ST478
+CI1111,Nzerekore,ST491
+CI1112,Zaria,ST492
+CI1113,Bielefeld,ST58
+CI1114,Stains,ST14
+CI1115,San Francisco de Macorís,ST493
+CI1116,Lecce,ST190
+CI1117,Colorado Springs,ST293
+CI1118,São Luís,ST356
+CI1119,Bagnolet,ST14
+CI1120,Qitaihe,ST13
+CI1121,Meerut,ST148
+CI1122,Shumen,ST494
+CI1123,Ponte Nova,ST294
+CI1124,Jinhua,ST128
+CI1125,Cheltenham,ST31
+CI1126,Kaduna,ST492
+CI1127,Breda,ST77
+CI1128,Valladolid,ST255
+CI1129,Courbevoie,ST14
+CI1130,Fuengirola,ST49
+CI1131,Charleroi,ST495
+CI1132,Oran,ST496
+CI1133,Kigali,ST497
+CI1134,Adana,ST498
+CI1135,Nova Serrana,ST294
+CI1136,Guadalajara,ST400
+CI1137,Oklahoma City,ST104
+CI1138,Santa Helena,ST356
+CI1139,Great Falls,ST499
+CI1140,Belo Horizonte,ST294
+CI1141,North York,ST227
+CI1142,Lakeville,ST35
+CI1143,Atakpame,ST500
+CI1144,Amadora,ST235
+CI1145,Pekanbaru,ST501
+CI1146,Louisville,ST293
+CI1147,Smyrna,ST57
+CI1148,Saint Cloud,ST35
+CI1149,Jamundí,ST502
+CI1150,Foumban,ST503
+CI1151,Jilin,ST101
+CI1152,Versailles,ST14
+CI1153,Lorca,ST427
+CI1154,Langenhagen,ST47
+CI1155,Caucaia,ST504
+CI1156,Borujerd,ST189
+CI1157,Fortaleza,ST504
+CI1158,Anyang,ST350
+CI1159,Apodaca,ST191
+CI1160,Parbhani,ST195
+CI1161,Kita-ku,ST147
+CI1162,Likasi,ST30
+CI1163,Bom Jesus da Lapa,ST139
+CI1164,Arlington,ST9
+CI1165,Appleton,ST90
+CI1166,Apopa,ST23
+CI1167,Asti,ST168
+CI1168,Mauá,ST91
+CI1169,Ranchi,ST37
+CI1170,Brest,ST28
+CI1171,Newcastle,ST505
+CI1172,Luhans'k,ST506
+CI1173,Geneva,ST507
+CI1174,Hautmont,ST61
+CI1175,Offenburg,ST352
+CI1176,Ananindeua,ST418
+CI1177,Nagercoil,ST188
+CI1178,Iguala,ST508
+CI1179,Portland,ST475
+CI1180,Comodoro Rivadavia,ST509
+CI1181,Nizamabad,ST339
+CI1182,Meriden,ST420
+CI1183,Resistencia,ST510
+CI1184,Bijie,ST449
+CI1185,Copenhagen,ST511
+CI1186,Niamey,ST512
+CI1187,Evry,ST14
+CI1188,Bourges,ST445
+CI1189,Great Yarmouth,ST31
+CI1190,Nashville,ST483
+CI1191,Draguignan,ST75
+CI1192,Jiutepec,ST488
+CI1193,Hamm,ST58
+CI1194,Bareilly,ST148
+CI1195,Mamak,ST513
+CI1196,Sannois,ST14
+CI1197,Toluca,ST204
+CI1198,Linz,ST514
+CI1199,Dubuque,ST515
+CI1200,Port Moresby,ST516
+CI1201,Kerman,ST517
+CI1202,Lakewood,ST107
+CI1203,La Ceiba,ST518
+CI1204,Port Macquarie,ST1
+CI1205,Nelson,ST519
+CI1206,Gdansk,ST520
+CI1207,Puducherry,ST521
+CI1208,Little Rock,ST522
+CI1209,Changwon,ST523
+CI1210,Remscheid,ST58
+CI1211,Exeter,ST31
+CI1212,Leshan,ST59
+CI1213,Chinautla,ST99
+CI1214,Brandenburg,ST524
+CI1215,Saint-Ouen,ST14
+CI1216,Le Plessis-Robinson,ST14
+CI1217,Halle,ST525
+CI1218,Harrow,ST31
+CI1219,Echirolles,ST183
+CI1220,Nogent-sur-Oise,ST363
+CI1221,Casoria,ST250
+CI1222,Griffith,ST1
+CI1223,Barra Mansa,ST346
+CI1224,Naperville,ST19
+CI1225,Saint-Genis-Laval,ST183
+CI1226,Ibagué,ST526
+CI1227,Tirunelveli,ST188
+CI1228,Ulan Bator,ST527
+CI1229,Les Herbiers,ST129
+CI1230,Pasco,ST42
+CI1231,Cheyenne,ST528
+CI1232,Perugia,ST529
+CI1233,Dresden,ST25
+CI1234,Francisco Beltrão,ST12
+CI1235,Tours,ST445
+CI1236,Araçatuba,ST91
+CI1237,Gawler,ST82
+CI1238,Des Moines,ST515
+CI1239,Groningen,ST530
+CI1240,Ichalkaranji,ST195
+CI1241,Naples,ST250
+CI1242,Bur Sudan,ST531
+CI1243,Firozabad,ST148
+CI1244,Aschaffenburg,ST74
+CI1245,Soissons,ST363
+CI1246,Aoba-ku,ST532
+CI1247,Silivri,ST279
+CI1248,Tawau,ST292
+CI1249,Limeira,ST91
+CI1250,Oldham,ST31
+CI1251,Itajaí,ST267
+CI1252,Goiânia,ST192
+CI1253,Neuwied,ST345
+CI1254,Marano di Napoli,ST250
+CI1255,Papakura,ST155
+CI1256,Watford,ST31
+CI1257,Dalian,ST95
+CI1258,Annecy,ST183
+CI1259,Sunnyvale,ST7
+CI1260,Madero,ST341
+CI1261,Tongchuan,ST480
+CI1262,Kramators'k,ST409
+CI1263,Ujjain,ST41
+CI1264,Asansol,ST60
+CI1265,Brahmapur,ST395
+CI1266,Roissy-en-Brie,ST14
+CI1267,Varese,ST291
+CI1268,Coulommiers,ST14
+CI1269,Chelmsford,ST31
+CI1270,Coimbra,ST533
+CI1271,Ashford,ST31
+CI1272,Bouake,ST534
+CI1273,Mildura,ST56
+CI1274,Puerto La Cruz,ST535
+CI1275,Teresópolis,ST346
+CI1276,Juiz de Fora,ST294
+CI1277,Foggia,ST190
+CI1278,Parma,ST107
+CI1279,Farmington,ST536
+CI1280,Cholula,ST73
+CI1281,Pamiers,ST81
+CI1282,Criciúma,ST267
+CI1283,Taubaté,ST91
+CI1284,Pantin,ST14
+CI1285,Gilbert,ST276
+CI1286,Oceanside,ST0
+CI1287,Celaya,ST153
+CI1288,Mansfield,ST31
+CI1289,Kazerun,ST123
+CI1290,Taiyuan,ST389
+CI1291,Pasadena,ST29
+CI1292,Río Bravo,ST341
+CI1293,Chiclana de la Frontera,ST49
+CI1294,Los Mochis,ST205
+CI1295,Suffolk,ST9
+CI1296,Anshun,ST449
+CI1297,San Pablo de las Salinas,ST204
+CI1298,Poissy,ST14
+CI1299,Choluteca,ST537
+CI1300,San Andrés Tuxtla,ST361
+CI1301,Fort Collins,ST293
+CI1302,Dublin,ST107
+CI1303,Hiratsuka,ST532
+CI1304,Huangshi,ST89
+CI1305,Xinghua,ST48
+CI1306,Knoxville,ST483
+CI1307,Khartoum,ST538
+CI1308,Al Minya,ST539
+CI1309,Midland,ST63
+CI1310,Vicenza,ST92
+CI1311,Lima,ST540
+CI1312,Pontoise,ST14
+CI1313,Daejeon,ST541
+CI1314,Springfield,ST107
+CI1315,Zhengzhou,ST138
+CI1316,Landerneau,ST28
+CI1317,Rouen,ST97
+CI1318,Heze,ST36
+CI1319,Quelimane,ST542
+CI1320,Atlixco,ST73
+CI1321,Rajshahi,ST543
+CI1322,Villefontaine,ST183
+CI1323,Arraiján,ST393
+CI1324,Querétaro,ST544
+CI1325,Ploiesti,ST545
+CI1326,Kassala,ST546
+CI1327,Saqqez,ST547
+CI1328,Dos Quebradas,ST548
+CI1329,Seremban,ST549
+CI1330,Meudon,ST14
+CI1331,Hradec Kralove,ST550
+CI1332,Peoria,ST19
+CI1333,Villemomble,ST14
+CI1334,Kupang,ST551
+CI1335,General Escobedo,ST191
+CI1336,Kawasaki,ST552
+CI1337,Rambouillet,ST14
+CI1338,Kopeysk,ST314
+CI1339,Kaiyuan,ST95
+CI1340,Parma,ST216
+CI1341,Maceió,ST553
+CI1342,Ndola,ST199
+CI1343,Samarra',ST554
+CI1344,Huainan,ST20
+CI1345,Sumy,ST555
+CI1346,Taranto,ST190
+CI1347,Mount Gambier,ST82
+CI1348,Bolton,ST31
+CI1349,Valinhos,ST91
+CI1350,Safi,ST556
+CI1351,Jackson,ST557
+CI1352,Marly-le-Roi,ST14
+CI1353,Lugo,ST79
+CI1354,Potosí,ST558
+CI1355,Belleville,ST78
+CI1356,Oldenburg,ST47
+CI1357,Garza García,ST191
+CI1358,Concord,ST268
+CI1359,Dayr az Zawr,ST559
+CI1360,Irkutsk,ST560
+CI1361,San Miguelito,ST393
+CI1362,Chillán,ST368
+CI1363,Wodonga,ST56
+CI1364,Annonay,ST183
+CI1365,Zhongxiang,ST89
+CI1366,Mogadishu,ST561
+CI1367,Bryansk,ST562
+CI1368,Severodvinsk,ST430
+CI1369,Chengdu,ST59
+CI1370,Armidale,ST1
+CI1371,Soweto,ST120
+CI1372,Durgapur,ST195
+CI1373,Nueva Gerona,ST563
+CI1374,Presidencia Roque Sáenz Peña,ST510
+CI1375,Castres,ST81
+CI1376,Fushun,ST95
+CI1377,Franca,ST91
+CI1378,Ludwigshafen am Rhein,ST345
+CI1379,Arica,ST564
+CI1380,Sartrouville,ST14
+CI1381,Mombasa,ST565
+CI1382,Nazilli,ST566
+CI1383,Jiutai,ST101
+CI1384,Koidu,ST567
+CI1385,Suihua,ST13
+CI1386,Messina,ST436
+CI1387,Reims,ST424
+CI1388,Behbahan,ST568
+CI1389,Ajmer,ST200
+CI1390,Cluj-Napoca,ST569
+CI1391,Oradea,ST570
+CI1392,Bristol,ST31
+CI1393,Tipitapa,ST141
+CI1394,Alicante,ST112
+CI1395,Hasselt,ST417
+CI1396,Aksu,ST410
+CI1397,Trabzon,ST571
+CI1398,Troisdorf,ST58
+CI1399,Kindia,ST572
+CI1400,Aix-en-Provence,ST75
+CI1401,Tanta,ST462
+CI1402,Choloma,ST489
+CI1403,Ulhasnagar,ST195
+CI1404,Caracas,ST573
+CI1405,Oleksandriya,ST574
+CI1406,Mississauga,ST227
+CI1407,Independence,ST169
+CI1408,Wattrelos,ST61
+CI1409,Licheng,ST118
+CI1410,Nieuwegein,ST404
+CI1411,Huaiyin,ST48
+CI1412,Pimpri,ST195
+CI1413,Brownsville,ST29
+CI1414,Abidjan,ST575
+CI1415,Turku,ST576
+CI1416,Portmore,ST257
+CI1417,Ivanovo,ST577
+CI1418,Artemisa,ST578
+CI1419,Niort,ST289
+CI1420,Denizli,ST579
+CI1421,Heerlen,ST580
+CI1422,Pharr,ST29
+CI1423,Valencia,ST581
+CI1424,Takamatsu,ST582
+CI1425,Kaluga,ST583
+CI1426,Burbank,ST7
+CI1427,Jayapura,ST584
+CI1428,Martigues,ST75
+CI1429,Bastia,ST585
+CI1430,Deltona,ST45
+CI1431,London,ST227
+CI1432,Kankan,ST586
+CI1433,Shanwei,ST118
+CI1434,Massy,ST14
+CI1435,Vaughan,ST227
+CI1436,Acuña,ST312
+CI1437,Langen,ST47
+CI1438,Villeneuve-sur-Lot,ST72
+CI1439,Manchester,ST31
+CI1440,Como,ST291
+CI1441,Les Ulis,ST14
+CI1442,Melitopol',ST587
+CI1443,Haarlem,ST96
+CI1444,Memphis,ST483
+CI1445,Ashqelon,ST442
+CI1446,Garforth,ST31
+CI1447,Sarajevo,ST588
+CI1448,Dunedin,ST589
+CI1449,Vitoria,ST121
+CI1450,Middlesbrough,ST31
+CI1451,Bissau,ST590
+CI1452,Dubbo,ST1
+CI1453,Genoa,ST419
+CI1454,Ratlam,ST41
+CI1455,Khmel'nyts'kyy,ST591
+CI1456,Linhai,ST128
+CI1457,Avion,ST61
+CI1458,Pforzheim,ST352
+CI1459,Coimbatore,ST188
+CI1460,Durham,ST8
+CI1461,Makati,ST69
+CI1462,Mechelen,ST324
+CI1463,Perth Amboy,ST78
+CI1464,Nellore,ST252
+CI1465,Tivoli,ST208
+CI1466,Cuiabá,ST592
+CI1467,Pinar del Río,ST334
+CI1468,Coacalco,ST204
+CI1469,Bowling Green,ST107
+CI1470,Tamarac,ST45
+CI1471,Cúcuta,ST593
+CI1472,Ijuí,ST594
+CI1473,Clinton,ST302
+CI1474,Beira,ST595
+CI1475,Basildon,ST31
+CI1476,Yamoussoukro,ST596
+CI1477,San Jose,ST7
+CI1478,Huntsville,ST29
+CI1479,Maubeuge,ST61
+CI1480,Djibouti,ST597
+CI1481,Saga,ST598
+CI1482,Tournefeuille,ST81
+CI1483,Chester,ST64
+CI1484,Donghai,ST118
+CI1485,Oshawa,ST227
+CI1486,Crewe,ST31
+CI1487,Sucy-en-Brie,ST14
+CI1488,Jackson,ST483
+CI1489,Roseville,ST35
+CI1490,Renton,ST42
+CI1491,Nakuru,ST599
+CI1492,Montmorency,ST14
+CI1493,Barueri,ST91
+CI1494,Valenciennes,ST61
+CI1495,Bilaspur,ST148
+CI1496,Divinópolis,ST294
+CI1497,Lugoj,ST600
+CI1498,Salamanca,ST153
+CI1499,Passo Fundo,ST594
+CI1500,Saumur,ST129
+CI1501,Siegen,ST58
+CI1502,Dumai,ST501
+CI1503,Palermo,ST436
+CI1504,Tumkur,ST197
+CI1505,Mount Vernon,ST0
+CI1506,Limoges,ST601
+CI1507,Wasquehal,ST61
+CI1508,Cagliari,ST602
+CI1509,Vannes,ST28
+CI1510,Lausanne,ST603
+CI1511,Athis-Mons,ST14
+CI1512,Jerusalem,ST604
+CI1513,Charallave,ST605
+CI1514,Masjed Soleyman,ST568
+CI1515,Palma Soriano,ST212
+CI1516,Sonsonate,ST606
+CI1517,Northampton,ST31
+CI1518,Gera,ST201
+CI1519,Redondo Beach,ST7
+CI1520,Walsall,ST31
+CI1521,Jonesboro,ST522
+CI1522,Potsdam,ST524
+CI1523,Grosseto,ST16
+CI1524,Parker,ST293
+CI1525,Neunkirchen,ST607
+CI1526,Marignane,ST75
+CI1527,Boise,ST608
+CI1528,Pietermaritzburg,ST505
+CI1529,Huehuetenango,ST609
+CI1530,Cuenca,ST610
+CI1531,Medina,ST611
+CI1532,Mansfield,ST29
+CI1533,Tamworth,ST1
+CI1534,Worcester,ST31
+CI1535,Champigny-sur-Marne,ST14
+CI1536,Port Harcourt,ST612
+CI1537,Smyrna,ST483
+CI1538,Hoover,ST175
+CI1539,Ituiutaba,ST294
+CI1540,Raipur,ST164
+CI1541,Guwahati,ST613
+CI1542,Gaziantep,ST614
+CI1543,Jerez de la Frontera,ST49
+CI1544,Carrara,ST16
+CI1545,Constanta,ST615
+CI1546,Cotia,ST91
+CI1547,Beaumont,ST29
+CI1548,Rafsanjan,ST517
+CI1549,Guacara,ST581
+CI1550,Al Mubarraz,ST616
+CI1551,Aberdeen,ST21
+CI1552,Montes Claros,ST294
+CI1553,La Chorrera,ST393
+CI1554,Cotonou,ST617
+CI1555,Washington,ST618
+CI1556,Chico,ST7
+CI1557,Puente Alto,ST369
+CI1558,Tecomán,ST619
+CI1559,Peshawar,ST620
+CI1560,Kawasaki,ST532
+CI1561,Pasadena,ST7
+CI1562,Acerra,ST250
+CI1563,Chilpancingo,ST508
+CI1564,Khomeynishahr,ST328
+CI1565,Edmond,ST104
+CI1566,Jieshou,ST20
+CI1567,Surrey,ST246
+CI1568,Progreso,ST269
+CI1569,Decatur,ST19
+CI1570,San Bernardo,ST369
+CI1571,Aalen,ST352
+CI1572,Aurangabad,ST195
+CI1573,Marsabit,ST621
+CI1574,Lodz,ST622
+CI1575,Multan,ST182
+CI1576,Allentown,ST64
+CI1577,Mufulira,ST199
+CI1578,Greifswald,ST285
+CI1579,Tempe,ST276
+CI1580,Letchworth,ST31
+CI1581,Mosul,ST623
+CI1582,João Pessoa,ST178
+CI1583,Sibiu,ST624
+CI1584,Fresnes,ST14
+CI1585,Cuajimalpa,ST146
+CI1586,Córdoba,ST361
+CI1587,Fayetteville,ST522
+CI1588,Tunis,ST625
+CI1589,Itapevi,ST91
+CI1590,Halle,ST58
+CI1591,Rosario,ST626
+CI1592,Mykolayiv,ST627
+CI1593,Sandnes,ST628
+CI1594,Masaya,ST629
+CI1595,Kissimmee,ST45
+CI1596,Aylesbury,ST31
+CI1597,Cambé,ST12
+CI1598,Aracaju,ST630
+CI1599,Warrington,ST31
+CI1600,Granada,ST631
+CI1601,Limoeiro do Norte,ST504
+CI1602,Katoomba,ST1
+CI1603,Kediri,ST144
+CI1604,Yaroslavl',ST161
+CI1605,Salavat,ST238
+CI1606,Malang,ST144
+CI1607,Calais,ST61
+CI1608,Provo,ST243
+CI1609,Novo Gama,ST192
+CI1610,Peterborough,ST31
+CI1611,Bunbury,ST44
+CI1612,Plymouth,ST31
+CI1613,Maryborough,ST2
+CI1614,Leuven,ST632
+CI1615,Zagreb,ST633
+CI1616,Frontera,ST203
+CI1617,Resende,ST346
+CI1618,Weifang,ST36
+CI1619,Chaville,ST14
+CI1620,Patiala,ST360
+CI1621,Al Hillah,ST634
+CI1622,Lowestoft,ST31
+CI1623,Hardenberg,ST635
+CI1624,Kowloon,ST636
+CI1625,Cuscatancingo,ST23
+CI1626,Yantai,ST36
+CI1627,Melton,ST56
+CI1628,Drammen,ST637
+CI1629,Auburn,ST175
+CI1630,Oosterhout,ST77
+CI1631,Torrance,ST7
+CI1632,Montauban,ST81
+CI1633,Jiangyou,ST59
+CI1634,Livry-Gargan,ST14
+CI1635,Sorocaba,ST91
+CI1636,Xi'an,ST480
+CI1637,Kathmandu,ST638
+CI1638,Quimper,ST28
+CI1639,Ixtapaluca,ST204
+CI1640,Wiesbaden,ST266
+CI1641,Gdynia,ST520
+CI1642,Magdeburg,ST525
+CI1643,Gennevilliers,ST14
+CI1644,Castelldefels,ST149
+CI1645,Widnes,ST31
+CI1646,Kaspiysk,ST390
+CI1647,Chapecó,ST267
+CI1648,Darbhanga,ST114
+CI1649,Coral Springs,ST45
+CI1650,Laredo,ST29
+CI1651,Klagenfurt,ST459
+CI1652,Aswan,ST639
+CI1653,Cienfuegos,ST640
+CI1654,Miguel Hidalgo,ST146
+CI1655,Panevezys,ST641
+CI1656,Erftstadt,ST58
+CI1657,Lippstadt,ST58
+CI1658,Brive-la-Gaillarde,ST601
+CI1659,Gisborne,ST642
+CI1660,Pulheim,ST58
+CI1661,Coudekerque-Branche,ST61
+CI1662,Roeselare,ST643
+CI1663,Highland Park,ST19
+CI1664,Ciénaga,ST473
+CI1665,Bingol,ST644
+CI1666,Les Abymes,ST645
+CI1667,Swindon,ST31
+CI1668,Abreu e Lima,ST394
+CI1669,Pereira,ST548
+CI1670,Odense,ST646
+CI1671,Haikou,ST86
+CI1672,Obregón,ST88
+CI1673,Sari,ST39
+CI1674,Baruta,ST605
+CI1675,Hangzhou,ST128
+CI1676,Chingola,ST199
+CI1677,Saint-Cyr-sur-Loire,ST445
+CI1678,Guntur,ST252
+CI1679,Nishinomiya,ST173
+CI1680,Offenbach,ST266
+CI1681,Waterlooville,ST31
+CI1682,Huizhou,ST118
+CI1683,Sohag,ST136
+CI1684,Decatur,ST175
+CI1685,Dewsbury,ST31
+CI1686,Bishkek,ST647
+CI1687,Licheng,ST48
+CI1688,Thika,ST648
+CI1689,Bron,ST183
+CI1690,Normal,ST19
+CI1691,Deventer,ST635
+CI1692,Tieling,ST95
+CI1693,Santiago de los Caballeros,ST649
+CI1694,Laval,ST68
+CI1695,Montereau-Fault-Yonne,ST14
+CI1696,Bulawayo,ST650
+CI1697,Xuanhua,ST158
+CI1698,Vallauris,ST75
+CI1699,Redmond,ST475
+CI1700,Clydach,ST297
+CI1701,Xianyang,ST480
+CI1702,Forster,ST1
+CI1703,Springfield,ST475
+CI1704,Dartford,ST31
+CI1705,Yokkaichi,ST651
+CI1706,El Ejido,ST49
+CI1707,Salzburg,ST652
+CI1708,Dundee,ST21
+CI1709,Belgaum,ST197
+CI1710,Rybnik,ST18
+CI1711,Iringa,ST653
+CI1712,Benin City,ST654
+CI1713,Arlington,ST29
+CI1714,Yicheng,ST89
+CI1715,Kiel,ST655
+CI1716,Kaiserslautern,ST345
+CI1717,Garches,ST14
+CI1718,Waterbury,ST420
+CI1719,Rosenheim,ST74
+CI1720,Poole,ST31
+CI1721,Pocatello,ST608
+CI1722,Villejuif,ST14
+CI1723,Vryburg,ST253
+CI1724,Termez,ST656
+CI1725,Xintai,ST36
+CI1726,Richmond,ST172
+CI1727,Wuchuan,ST118
+CI1728,Heroica Zitácuaro,ST100
+CI1729,Richmond,ST246
+CI1730,Worms,ST345
+CI1731,Darmstadt,ST266
+CI1732,Issoire,ST176
+CI1733,Yichun,ST13
+CI1734,Issy-les-Moulineaux,ST14
+CI1735,Chaozhou,ST118
+CI1736,Chaoyang,ST95
+CI1737,Granada,ST49
+CI1738,Bhubaneswar,ST395
+CI1739,Broken Hill,ST1
+CI1740,Porto,ST657
+CI1741,Columbia,ST483
+CI1742,Sanming,ST198
+CI1743,Invercargill,ST658
+CI1744,Salt Lake City,ST243
+CI1745,Kuching,ST659
+CI1746,Probolinggo,ST144
+CI1747,Chandler,ST276
+CI1748,Kandahar,ST660
+CI1749,Duitama,ST661
+CI1750,Taverny,ST14
+CI1751,Caxias do Sul,ST594
+CI1752,Elmhurst,ST19
+CI1753,Laghouat,ST662
+CI1754,Juba,ST663
+CI1755,Sumaré,ST91
+CI1756,Lucca,ST16
+CI1757,Minden,ST58
+CI1758,Herten,ST58
+CI1759,Pelotas,ST594
+CI1760,Arvada,ST293
+CI1761,Campo Grande,ST664
+CI1762,Lower Hutt,ST5
+CI1763,Poznan,ST665
+CI1764,Birigui,ST91
+CI1765,Wad Madani,ST666
+CI1766,Florence,ST484
+CI1767,Islamabad,ST667
+CI1768,Stevenage,ST31
+CI1769,Nanchang,ST668
+CI1770,Guayaquil,ST669
+CI1771,Rancagua,ST670
+CI1772,Rawalpindi,ST182
+CI1773,Zhuhai,ST118
+CI1774,Mau,ST41
+CI1775,Shahriar,ST239
+CI1776,Contramaestre,ST212
+CI1777,Thonon-les-Bains,ST183
+CI1778,Allauch,ST75
+CI1779,Amritsar,ST360
+CI1780,Rondonópolis,ST592
+CI1781,Handan,ST158
+CI1782,Coslada,ST102
+CI1783,Plantation,ST45
+CI1784,Bauchi,ST671
+CI1785,Maple Grove,ST35
+CI1786,Auburn,ST0
+CI1787,Ratingen,ST58
+CI1788,Caloocan,ST69
+CI1789,Inglewood,ST7
+CI1790,Libreville,ST672
+CI1791,Saint Charles,ST19
+CI1792,Pomona,ST7
+CI1793,Opole,ST673
+CI1794,Gastonia,ST8
+CI1795,São Bernardo do Campo,ST91
+CI1796,Metz,ST309
+CI1797,Peoria,ST276
+CI1798,Albuquerque,ST536
+CI1799,Plano,ST29
+CI1800,Tongling,ST20
+CI1801,Colima,ST619
+CI1802,Green Bay,ST90
+CI1803,Cheshunt,ST31
+CI1804,Middletown,ST420
+CI1805,Chula Vista,ST7
+CI1806,Riverside,ST7
+CI1807,Guarulhos,ST91
+CI1808,Homyel',ST674
+CI1809,Torquay,ST31
+CI1810,Narbonne,ST265
+CI1811,Sylhet,ST675
+CI1812,Sandakan,ST292
+CI1813,Takamatsu,ST676
+CI1814,Al Muharraq,ST677
+CI1815,Akola,ST195
+CI1816,Troy,ST0
+CI1817,El Cajon,ST7
+CI1818,Birkenhead,ST31
+CI1819,Istres,ST75
+CI1820,Noisy-le-Sec,ST14
+CI1821,Shangyu,ST128
+CI1822,Winnipeg,ST678
+CI1823,Burnaby,ST246
+CI1824,Bacau,ST679
+CI1825,Nantong,ST48
+CI1826,Mougins,ST75
+CI1827,Bolzano,ST286
+CI1828,Amiens,ST363
+CI1829,Valencia,ST680
+CI1830,Farroupilha,ST594
+CI1831,Hangu,ST258
+CI1832,Uskudar,ST279
+CI1833,Wuxi,ST127
+CI1834,Lora del Río,ST49
+CI1835,Mcallen,ST29
+CI1836,Colón,ST681
+CI1837,Torcy,ST14
+CI1838,Zanjan,ST682
+CI1839,Calabar,ST683
+CI1840,Rotorua,ST263
+CI1841,Veracruz,ST361
+CI1842,Sincan,ST513
+CI1843,Paderborn,ST58
+CI1844,Orsay,ST14
+CI1845,Medina,ST107
+CI1846,Guatire,ST605
+CI1847,Thiais,ST14
+CI1848,San Lorenzo,ST307
+CI1849,Sterlitamak,ST238
+CI1850,La Teste-de-Buch,ST72
+CI1851,Haifa,ST684
+CI1852,Barranquilla,ST396
+CI1853,Maradi,ST685
+CI1854,Dearborn,ST63
+CI1855,Blumenau,ST267
+CI1856,Gravatá,ST394
+CI1857,Scottsdale,ST276
+CI1858,Oxnard,ST7
+CI1859,Margate,ST31
+CI1860,Trapani,ST436
+CI1861,Lormont,ST72
+CI1862,Sapucaia do Sul,ST594
+CI1863,Paço do Lumiar,ST356
+CI1864,Jingmen,ST89
+CI1865,Bengkulu,ST686
+CI1866,Kirkwood,ST169
+CI1867,Lichinga,ST687
+CI1868,Sargodha,ST182
+CI1869,Mardin,ST688
+CI1870,Aulnay-sous-Bois,ST14
+CI1871,Mesa,ST276
+CI1872,Bihar Sharif,ST114
+CI1873,Ottawa,ST227
+CI1874,Huyton,ST31
+CI1875,Hyderabad,ST689
+CI1876,Taizz,ST690
+CI1877,Trappes,ST14
+CI1878,Montrouge,ST14
+CI1879,Huambo,ST691
+CI1880,Wuppertal,ST58
+CI1881,Verona,ST92
+CI1882,Brighton,ST31
+CI1883,Bayreuth,ST74
+CI1884,Ankara,ST513
+CI1885,Tehuacán,ST73
+CI1886,Redditch,ST31
+CI1887,Kent,ST42
+CI1888,Da Nang,ST692
+CI1889,Umtata,ST163
+CI1890,Hubli,ST197
+CI1891,Ludwigsfelde,ST524
+CI1892,Maidenhead,ST31
+CI1893,Delmenhorst,ST47
+CI1894,Kingston,ST227
+CI1895,Gagny,ST14
+CI1896,Weston-super-Mare,ST31
+CI1897,Kuala Terengganu,ST693
+CI1898,Emden,ST47
+CI1899,Karlsruhe,ST352
+CI1900,Amman,ST694
+CI1901,Pau,ST72
+CI1902,Calgary,ST372
+CI1903,Whitby,ST227
+CI1904,Legnano,ST291
+CI1905,Baranagar,ST60
+CI1906,Arequipa,ST695
+CI1907,Gravataí,ST594
+CI1908,Niterói,ST346
+CI1909,Avignon,ST75
+CI1910,Sanandaj,ST547
+CI1911,Gebze,ST696
+CI1912,Hazebrouck,ST61
+CI1913,Uppsala,ST697
+CI1914,Slupsk,ST520
+CI1915,South Bend,ST172
+CI1916,Agen,ST72
+CI1917,Wallasey,ST31
+CI1918,Ras al Khaymah,ST698
+CI1919,Burnie,ST119
+CI1920,Xinxiang,ST138
+CI1921,Irun,ST121
+CI1922,Pontianak,ST699
+CI1923,Roseville,ST63
+CI1924,Grevenbroich,ST58
+CI1925,Hamilton,ST227
+CI1926,Santa Rosa,ST594
+CI1927,Paraná,ST700
+CI1928,Canton,ST63
+CI1929,Guildford,ST31
+CI1930,Ruda Slaska,ST18
+CI1931,Six-Fours-les-Plages,ST75
+CI1932,Murray,ST15
+CI1933,Salvador,ST139
+CI1934,Luton,ST31
+CI1935,Cottbus,ST524
+CI1936,Kilwinning,ST21
+CI1937,Neijiang,ST59
+CI1938,Shkoder,ST701
+CI1939,Abadan,ST568
+CI1940,Overland Park,ST702
+CI1941,Cainta,ST362
+CI1942,Velsen,ST96
+CI1943,Ahvaz,ST568
+CI1944,Lawton,ST104
+CI1945,Paterson,ST78
+CI1946,Jamnagar,ST26
+CI1947,Gothenburg,ST703
+CI1948,Durban,ST505
+CI1949,Cárdenas,ST376
+CI1950,Rheine,ST58
+CI1951,Maracaibo,ST704
+CI1952,Tourcoing,ST61
+CI1953,Saint Peters,ST169
+CI1954,Guanambi,ST139
+CI1955,Sukkur,ST689
+CI1956,Firminy,ST183
+CI1957,Las Rozas de Madrid,ST102
+CI1958,Moradabad,ST148
+CI1959,Shinyanga,ST705
+CI1960,Chisinau,ST706
+CI1961,Lakewood,ST7
+CI1962,Sakai,ST707
+CI1963,Barreiras,ST139
+CI1964,Ajaccio,ST585
+CI1965,Meyzieu,ST183
+CI1966,Batman,ST708
+CI1967,La Crosse,ST90
+CI1968,Bukavu,ST709
+CI1969,San Rafael,ST710
+CI1970,Gorgan,ST711
+CI1971,Woodstock,ST57
+CI1972,Brescia,ST291
+CI1973,Heidelberg,ST352
+CI1974,Haguenau,ST143
+CI1975,Jos,ST712
+CI1976,Punta Arenas,ST713
+CI1977,Galway,ST714
+CI1978,Wenzhou,ST128
+CI1979,Targu Jiu,ST715
+CI1980,Ingolstadt,ST74
+CI1981,Wheeling,ST716
+CI1982,Southaven,ST557
+CI1983,Neiva,ST717
+CI1984,Savigny-le-Temple,ST14
+CI1985,Tarragona,ST149
+CI1986,Pingdingshan,ST138
+CI1987,Canoas,ST594
+CI1988,Timisoara,ST600
+CI1989,Stralsund,ST285
+CI1990,Ceuta,ST718
+CI1991,Varna,ST719
+CI1992,Nevsehir,ST720
+CI1993,Guanajuato,ST153
+CI1994,Takestan,ST721
+CI1995,Quilmes,ST463
+CI1996,Rio Branco,ST722
+CI1997,Salem,ST475
+CI1998,Delgado,ST23
+CI1999,Bistrita,ST723
+CI2000,Angeles City,ST724
+CI2001,Gelsenkirchen,ST58
+CI2002,Huancayo,ST725
+CI2003,Vallejo,ST7
+CI2004,Amersfoort,ST404
+CI2005,Camarillo,ST7
+CI2006,Linyi,ST36
+CI2007,Kherson,ST726
+CI2008,Girona,ST149
+CI2009,Dorsten,ST58
+CI2010,Kirovohrad,ST574
+CI2011,Moca,ST727
+CI2012,Berdyans'k,ST587
+CI2013,Osasco,ST91
+CI2014,Cerignola,ST190
+CI2015,Borazjan,ST728
+CI2016,Wels,ST514
+CI2017,Mission Viejo,ST7
+CI2018,Berne,ST729
+CI2019,Surubim,ST394
+CI2020,Woodbury,ST35
+CI2021,Jammu,ST310
+CI2022,Des Plaines,ST19
+CI2023,Man,ST730
+CI2024,Saint-Malo,ST28
+CI2025,Ebolowa,ST731
+CI2026,Djougou,ST732
+CI2027,Thies Nones,ST733
+CI2028,Pilar,ST553
+CI2029,Batna,ST734
+CI2030,Roseville,ST7
+CI2031,Villenave-d'Ornon,ST72
+CI2032,Passaic,ST78
+CI2033,Wakefield,ST31
+CI2034,Norderstedt,ST655
+CI2035,Saint-Michel-sur-Orge,ST14
+CI2036,Samobor,ST735
+CI2037,Regina,ST736
+CI2038,Changsha,ST127
+CI2039,Dearborn Heights,ST63
+CI2040,Twin Falls,ST608
+CI2041,Les Clayes-sous-Bois,ST14
+CI2042,Yongchuan,ST166
+CI2043,Melun,ST14
+CI2044,Chemnitz,ST25
+CI2045,Rotterdam,ST478
+CI2046,Koblenz,ST345
+CI2047,Binjai,ST105
+CI2048,Yuma,ST276
+CI2049,Wadi as Sir,ST694
+CI2050,Hagen,ST58
+CI2051,Zahedan,ST737
+CI2052,Heyuan,ST118
+CI2053,Halesowen,ST31
+CI2054,Pingnan,ST284
+CI2055,Lubango,ST738
+CI2056,Ceyhan,ST498
+CI2057,Mount Pleasant,ST484
+CI2058,Xingtai,ST158
+CI2059,Bandar Abbas,ST739
+CI2060,Gonaïves,ST740
+CI2061,Wilmington,ST8
+CI2062,Chieti,ST316
+CI2063,Auxerre,ST130
+CI2064,Rio Rancho,ST536
+CI2065,Gradignan,ST72
+CI2066,Trenton,ST63
+CI2067,Satu Mare,ST741
+CI2068,Badalona,ST149
+CI2069,Bornova,ST154
+CI2070,Tripoli,ST742
+CI2071,Lincoln,ST31
+CI2072,Washington,ST31
+CI2073,Monroe,ST234
+CI2074,Lake Forest,ST7
+CI2075,Winterthur,ST218
+CI2076,Caen,ST180
+CI2077,Araranguá,ST267
+CI2078,Frontignan,ST265
+CI2079,Piedras Negras,ST312
+CI2080,Huangshan,ST20
+CI2081,Derbent,ST390
+CI2082,Wheeling,ST19
+CI2083,Ramnicu Valcea,ST743
+CI2084,Reading,ST64
+CI2085,Hod HaSharon,ST744
+CI2086,Hesperia,ST7
+CI2087,Kisangani,ST745
+CI2088,Gladstone,ST2
+CI2089,Santos,ST91
+CI2090,Pertuis,ST75
+CI2091,Mont-Saint-Aignan,ST97
+CI2092,Le Pontet,ST75
+CI2093,Zhuzhou,ST127
+CI2094,Colomiers,ST81
+CI2095,Cessnock,ST1
+CI2096,Nanyang,ST138
+CI2097,Pasto,ST746
+CI2098,San Bernardino,ST7
+CI2099,Apopka,ST45
+CI2100,Barika,ST734
+CI2101,Fuzhou,ST198
+CI2102,Taytay,ST362
+CI2103,Ermont,ST14
+CI2104,Zhoukou,ST138
+CI2105,Les Mureaux,ST14
+CI2106,Quchan,ST207
+CI2107,Miramar,ST341
+CI2108,K'ut'aisi,ST747
+CI2109,Cartagena,ST427
+CI2110,Myslowice,ST18
+CI2111,Rivne,ST748
+CI2112,Emmen,ST749
+CI2113,Chenzhou,ST127
+CI2114,Revere,ST84
+CI2115,Siedlce,ST750
+CI2116,Shuangyashan,ST13
+CI2117,Paracatu,ST294
+CI2118,Aew?l-li,ST751
+CI2119,Quibdó,ST752
+CI2120,Budënnovsk,ST439
+CI2121,Burgas,ST753
+CI2122,Zlatoust,ST314
+CI2123,Vitória,ST315
+CI2124,Jalalabad,ST754
+CI2125,Sabadell,ST149
+CI2126,Presidente Prudente,ST91
+CI2127,Garoua,ST755
+CI2128,Kolwezi,ST30
+CI2129,San Fernando,ST49
+CI2130,Verviers,ST756
+CI2131,Wichita,ST702
+CI2132,Eugene,ST475
+CI2133,Saharanpur,ST148
+CI2134,Cremona,ST291
+CI2135,Duque de Caxias,ST346
+CI2136,Warsaw,ST750
+CI2137,Bakersfield,ST7
+CI2138,Lajeado,ST594
+CI2139,Plzen,ST757
+CI2140,Mazyr,ST674
+CI2141,Getafe,ST102
+CI2142,Tongliao,ST142
+CI2143,San Cristóbal de Las Casas,ST758
+CI2144,Mentor,ST107
+CI2145,Bursa,ST759
+CI2146,Gaspar,ST267
+CI2147,Daegu,ST760
+CI2148,Betim,ST294
+CI2149,Goulburn,ST1
+CI2150,Rolândia,ST12
+CI2151,Laohekou,ST89
+CI2152,Blackburn,ST31
+CI2153,Doetinchem,ST414
+CI2154,Botosani,ST761
+CI2155,Beni Suef,ST762
+CI2156,Tarbes,ST81
+CI2157,Modica,ST436
+CI2158,Grand Prairie,ST29
+CI2159,Manzini,ST763
+CI2160,Port Arthur,ST29
+CI2161,San Francisco del Rincón,ST153
+CI2162,Chatou,ST14
+CI2163,Akron,ST107
+CI2164,Novara,ST168
+CI2165,Broomfield,ST293
+CI2166,Capelle aan den IJssel,ST478
+CI2167,Francisco Morato,ST91
+CI2168,Torquay,ST2
+CI2169,Stellenbosch,ST131
+CI2170,La Porte,ST172
+CI2171,Bar-le-Duc,ST309
+CI2172,Jundiaí,ST91
+CI2173,Cuautitlán,ST204
+CI2174,Palencia,ST255
+CI2175,Enugu,ST764
+CI2176,Idfu,ST639
+CI2177,Buffalo Grove,ST19
+CI2178,Woodstock,ST19
+CI2179,Manzanillo,ST619
+CI2180,Recife,ST394
+CI2181,Bedford,ST31
+CI2182,Mbinga,ST765
+CI2183,Monroe,ST8
+CI2184,Bamenda,ST766
+CI2185,Heilbronn,ST352
+CI2186,Puerto Vallarta,ST226
+CI2187,Qiqihar,ST13
+CI2188,Sarcelles,ST14
+CI2189,Carvin,ST61
+CI2190,Latina,ST208
+CI2191,Purwokerto,ST108
+CI2192,Rochester,ST35
+CI2193,Torre del Greco,ST250
+CI2194,Diyarbakir,ST767
+CI2195,Mitry-Mory,ST14
+CI2196,Srinagar,ST50
+CI2197,Targu Mures,ST768
+CI2198,Chaguanas,ST769
+CI2199,Utica,ST0
+CI2200,Los Patios,ST593
+CI2201,Anápolis,ST192
+CI2202,Orlando,ST45
+CI2203,Bournemouth,ST31
+CI2204,Porto Alegre,ST594
+CI2205,São José dos Campos,ST91
+CI2206,Pico Rivera,ST7
+CI2207,Taiping,ST388
+CI2208,Andradina,ST91
+CI2209,Erfurt,ST201
+CI2210,Olympia,ST42
+CI2211,Vacaville,ST7
+CI2212,Tigard,ST475
+CI2213,Stockton,ST7
+CI2214,Vratsa,ST770
+CI2215,Valle de La Pascua,ST771
+CI2216,Talavera de la Reina,ST400
+CI2217,Hempstead,ST0
+CI2218,Montecatini Terme,ST16
+CI2219,Guayana,ST772
+CI2220,Gladstone,ST169
+CI2221,Yingcheng,ST89
+CI2222,Tuxtla Gutiérrez,ST758
+CI2223,Pasig,ST69
+CI2224,Pucallpa,ST773
+CI2225,Johnson City,ST483
+CI2226,Richmond Hill,ST227
+CI2227,Capua,ST250
+CI2228,San Juan del Río,ST544
+CI2229,Chincha Alta,ST774
+CI2230,Oceanside,ST7
+CI2231,Sousa,ST178
+CI2232,Norwich,ST31
+CI2233,Boscoreale,ST250
+CI2234,Friedrichshafen,ST352
+CI2235,Namangan,ST775
+CI2236,Yacuiba,ST776
+CI2237,La Pintana,ST369
+CI2238,Corbeil-Essonnes,ST14
+CI2239,Anglet,ST72
+CI2240,Bertoua,ST777
+CI2241,Teresina,ST778
+CI2242,El Progreso,ST779
+CI2243,Kikwit,ST780
+CI2244,Giyani,ST781
+CI2245,Girón,ST196
+CI2246,Holon,ST397
+CI2247,Altamira,ST418
+CI2248,Oak Park,ST63
+CI2249,Cabo Frio,ST346
+CI2250,Moulins,ST176
+CI2251,Stockport,ST31
+CI2252,Amatitlán,ST99
+CI2253,Eau Claire,ST90
+CI2254,Hove,ST31
+CI2255,Kartal,ST279
+CI2256,York,ST64
+CI2257,Ibadan,ST782
+CI2258,Jacareí,ST91
+CI2259,Marl,ST58
+CI2260,Bonneuil-sur-Marne,ST14
+CI2261,Skokie,ST19
+CI2262,Abha,ST783
+CI2263,Tanga,ST784
+CI2264,Eastbourne,ST31
+CI2265,Tahta,ST136
+CI2266,Orsha,ST785
+CI2267,Ibb,ST786
+CI2268,Passos,ST294
+CI2269,Cherbourg-Octeville,ST180
+CI2270,Temixco,ST488
+CI2271,Oswego,ST19
+CI2272,Rottingdean,ST31
+CI2273,Hailin,ST13
+CI2274,Salinas,ST7
+CI2275,Agadir,ST787
+CI2276,Castelnau-le-Lez,ST265
+CI2277,Roman,ST152
+CI2278,Costa Mesa,ST7
+CI2279,Chernihiv,ST432
+CI2280,Livingstone,ST788
+CI2281,Superior,ST90
+CI2282,Whittier,ST7
+CI2283,Kisumu,ST789
+CI2284,Constantine,ST790
+CI2285,Kindu,ST791
+CI2286,Damanhur,ST792
+CI2287,Minuf,ST793
+CI2288,Cherkasy,ST794
+CI2289,Bolu,ST795
+CI2290,Morgan Hill,ST7
+CI2291,Kota,ST200
+CI2292,Hisar,ST33
+CI2293,Carol Stream,ST19
+CI2294,Chartres,ST445
+CI2295,Lubbock,ST29
+CI2296,Guiping,ST284
+CI2297,Shijiazhuang,ST158
+CI2298,Callao,ST796
+CI2299,Yokkaichi,ST262
+CI2300,Osh,ST797
+CI2301,Rochdale,ST31
+CI2302,Salina Cruz,ST798
+CI2303,Villingen-Schwenningen,ST352
+CI2304,Huadian,ST101
+CI2305,Catia La Mar,ST799
+CI2306,Cholet,ST129
+CI2307,Bucheon,ST350
+CI2308,Fontenay-sous-Bois,ST14
+CI2309,Hollywood,ST45
+CI2310,Nacka,ST248
+CI2311,Cannes,ST75
+CI2312,Calamba,ST362
+CI2313,La Madeleine,ST61
+CI2314,Livingston,ST21
+CI2315,Boa Vista,ST800
+CI2316,Pine Bluff,ST522
+CI2317,Ad Diwem,ST801
+CI2318,Karimnagar,ST339
+CI2319,Herat,ST802
+CI2320,Takatsuki,ST147
+CI2321,Clifton,ST78
+CI2322,Angarsk,ST560
+CI2323,Gallarate,ST291
+CI2324,Chetumal,ST186
+CI2325,Franklin,ST483
+CI2326,Bangor,ST803
+CI2327,Zaanstad,ST96
+CI2328,Mishawaka,ST172
+CI2329,Horlivka,ST409
+CI2330,São Miguel dos Campos,ST553
+CI2331,Tamale,ST804
+CI2332,Salon-de-Provence,ST75
+CI2333,Cognac,ST289
+CI2334,Plovdiv,ST805
+CI2335,Halluin,ST61
+CI2336,Hereford,ST31
+CI2337,Huzhou,ST128
+CI2338,Recklinghausen,ST58
+CI2339,Portoviejo,ST806
+CI2340,Ngaoundere,ST807
+CI2341,São Leopoldo,ST594
+CI2342,Pistoia,ST16
+CI2343,Rubí,ST149
+CI2344,Hechuan,ST166
+CI2345,Radom,ST750
+CI2346,Esenyurt,ST279
+CI2347,Bergamo,ST291
+CI2348,Diadema,ST91
+CI2349,Vanves,ST14
+CI2350,Moshi,ST808
+CI2351,Jaú,ST91
+CI2352,Caçador,ST267
+CI2353,Murrieta,ST7
+CI2354,La Paz,ST809
+CI2355,San Jose del Monte,ST724
+CI2356,Moorhead,ST35
+CI2357,Lorena,ST91
+CI2358,Northwich,ST31
+CI2359,Warangal,ST339
+CI2360,Polatli,ST513
+CI2361,Dunstable,ST31
+CI2362,Ashgabat,ST810
+CI2363,Florencia,ST811
+CI2364,Dhule,ST195
+CI2365,Najafabad,ST328
+CI2366,Belfort,ST812
+CI2367,Santa Maria,ST7
+CI2368,Carlsbad,ST536
+CI2369,Lagos de Moreno,ST226
+CI2370,Pontault-Combault,ST14
+CI2371,Bryan,ST29
+CI2372,Turgutlu,ST813
+CI2373,Athens,ST57
+CI2374,Pesaro,ST814
+CI2375,Saint Petersburg,ST45
+CI2376,Quincy,ST84
+CI2377,Iasi,ST815
+CI2378,Mossoró,ST264
+CI2379,Friedberg,ST266
+CI2380,Lancaster,ST64
+CI2381,Puyang,ST138
+CI2382,Puerto Montt,ST402
+CI2383,Al Fayyum,ST816
+CI2384,Irbid,ST817
+CI2385,Barbacena,ST294
+CI2386,Zhumadian,ST138
+CI2387,Arak,ST818
+CI2388,Perpignan,ST265
+CI2389,Westfield,ST78
+CI2390,Waco,ST29
+CI2391,Ludwigsburg,ST352
+CI2392,Franconville,ST14
+CI2393,Penedo,ST553
+CI2394,Dniprodzerzhyns'k,ST386
+CI2395,Korhogo,ST819
+CI2396,Flers,ST180
+CI2397,Tarnow,ST820
+CI2398,Lohne,ST47
+CI2399,Musoma,ST821
+CI2400,Mbeya,ST822
+CI2401,Kasugai,ST823
+CI2402,Senhor do Bonfim,ST139
+CI2403,Sallanches,ST183
+CI2404,Apeldoorn,ST414
+CI2405,Karliova,ST644
+CI2406,Plaisance-du-Touch,ST81
+CI2407,Kirsehir,ST824
+CI2408,Bandar-e Anzali,ST355
+CI2409,Trieste,ST825
+CI2410,Balikesir,ST299
+CI2411,Colombes,ST14
+CI2412,Acayucan,ST361
+CI2413,Irving,ST29
+CI2414,Carpi,ST216
+CI2415,Amol,ST39
+CI2416,Bahawalpur,ST182
+CI2417,Zabol,ST737
+CI2418,Reus,ST149
+CI2419,Braga,ST826
+CI2420,Badajoz,ST827
+CI2421,Hayange,ST309
+CI2422,Bejaia,ST828
+CI2423,Unna,ST58
+CI2424,Texarkana,ST522
+CI2425,Sucre,ST829
+CI2426,Ontario,ST7
+CI2427,La Roche-sur-Yon,ST129
+CI2428,Almelo,ST635
+CI2429,Vacaria,ST594
+CI2430,Marbella,ST49
+CI2431,Lake Charles,ST234
+CI2432,Malatya,ST830
+CI2433,Bezerros,ST394
+CI2434,Al Hufuf,ST616
+CI2435,Bagé,ST594
+CI2436,Delft,ST478
+CI2437,Sittard,ST580
+CI2438,Panihati,ST60
+CI2439,Hidalgo,ST100
+CI2440,Choisy-le-Roi,ST14
+CI2441,Raipur,ST200
+CI2442,Uithoorn,ST96
+CI2443,Sioux Falls,ST831
+CI2444,Eragny,ST14
+CI2445,Lake Elsinore,ST7
+CI2446,Rosarito,ST282
+CI2447,New Rochelle,ST0
+CI2448,Chandigarh,ST832
+CI2449,Sagamihara,ST532
+CI2450,Xichang,ST59
+CI2451,Cagnes-sur-Mer,ST75
+CI2452,Zabrze,ST18
+CI2453,Molina de Segura,ST427
+CI2454,Matadi,ST833
+CI2455,Kaiyuan,ST245
+CI2456,Esquina,ST834
+CI2457,Saveh,ST818
+CI2458,Cankaya,ST513
+CI2459,Uruguaiana,ST594
+CI2460,Valence,ST183
+CI2461,Chitungwiza,ST835
+CI2462,East London,ST163
+CI2463,Conway,ST522
+CI2464,Maiduguri,ST836
+CI2465,Gonesse,ST14
+CI2466,Schiedam,ST478
+CI2467,Hattiesburg,ST557
+CI2468,Wetter (Ruhr),ST58
+CI2469,Floridablanca,ST196
+CI2470,Halifax,ST31
+CI2471,Bebington,ST31
+CI2472,Saint-Cloud,ST14
+CI2473,Pontes e Lacerda,ST592
+CI2474,Solihull,ST31
+CI2475,Iskenderun,ST837
+CI2476,Canakkale,ST838
+CI2477,Freeport,ST0
+CI2478,Kozan,ST498
+CI2479,Helena,ST499
+CI2480,Vlore,ST839
+CI2481,Monza,ST291
+CI2482,Palm Coast,ST45
+CI2483,São Pedro da Aldeia,ST346
+CI2484,Uvira,ST709
+CI2485,Edogawa-ku,ST450
+CI2486,Cirebon,ST65
+CI2487,Kokshetau,ST840
+CI2488,Brussels,ST841
+CI2489,Yancheng,ST48
+CI2490,Saanich,ST246
+CI2491,Manteca,ST7
+CI2492,Neuilly-sur-Marne,ST14
+CI2493,Nakhon Ratchasima,ST842
+CI2494,Saint-Avold,ST309
+CI2495,Gaziemir,ST154
+CI2496,Edinburg,ST29
+CI2497,Hengelo,ST635
+CI2498,Pekalongan,ST108
+CI2499,Naumburg,ST525
+CI2500,Civitavecchia,ST208
+CI2501,Dinslaken,ST58
+CI2502,Pila,ST665
+CI2503,Moreno Valley,ST7
+CI2504,Antalya,ST843
+CI2505,Epinal,ST309
+CI2506,Grasse,ST75
+CI2507,Ipswich,ST31
+CI2508,East Kilbride,ST21
+CI2509,Chorzow,ST18
+CI2510,Montfermeil,ST14
+CI2511,Gummersbach,ST58
+CI2512,Marsala,ST436
+CI2513,Suwon,ST350
+CI2514,Buca,ST154
+CI2515,Sant Boi de Llobregat,ST149
+CI2516,Van,ST844
+CI2517,Hackensack,ST78
+CI2518,Guzmán,ST226
+CI2519,Cruz das Almas,ST139
+CI2520,Cipolletti,ST845
+CI2521,Siping,ST101
+CI2522,Arauca,ST846
+CI2523,Sukabumi,ST65
+CI2524,Registro,ST91
+CI2525,Sevastopol,ST847
+CI2526,Langenfeld,ST58
+CI2527,Mirzapur,ST148
+CI2528,Rome,ST0
+CI2529,Zeist,ST404
+CI2530,Benevento,ST250
+CI2531,Kotka,ST848
+CI2532,Baní,ST849
+CI2533,Ibaraki,ST147
+CI2534,Taza,ST850
+CI2535,Quixadá,ST504
+CI2536,Yao,ST147
+CI2537,Porlamar,ST851
+CI2538,Qarshi,ST852
+CI2539,Ternopil',ST853
+CI2540,Le Blanc-Mesnil,ST14
+CI2541,Tangerang,ST65
+CI2542,Centurion,ST120
+CI2543,Delray Beach,ST45
+CI2544,Pembroke Pines,ST45
+CI2545,Ipiales,ST746
+CI2546,Bristol,ST420
+CI2547,Bratsk,ST560
+CI2548,Sialkot,ST182
+CI2549,Pessac,ST72
+CI2550,Rizhao,ST36
+CI2551,Nha Trang,ST854
+CI2552,Freiburg,ST352
+CI2553,Ocaña,ST593
+CI2554,Bezons,ST14
+CI2555,Yambol,ST855
+CI2556,Shangzhi,ST13
+CI2557,Oktyabr'skiy,ST238
+CI2558,Senlis,ST363
+CI2559,Mar del Plata,ST463
+CI2560,Dire Dawa,ST856
+CI2561,Agrigento,ST436
+CI2562,Sale,ST31
+CI2563,Cambrai,ST61
+CI2564,Aba,ST857
+CI2565,Poços de Caldas,ST294
+CI2566,Vaulx-en-Velin,ST183
+CI2567,Butare,ST858
+CI2568,Asunción,ST859
+CI2569,Mendoza,ST710
+CI2570,Southport,ST31
+CI2571,Missoula,ST499
+CI2572,Itaúna,ST294
+CI2573,Sabzevar,ST207
+CI2574,Markham,ST227
+CI2575,Sangli,ST195
+CI2576,Bremerhaven,ST80
+CI2577,Miramar,ST45
+CI2578,Drobeta-Turnu Severin,ST860
+CI2579,Jodhpur,ST26
+CI2580,Bo,ST861
+CI2581,Acireale,ST436
+CI2582,Laon,ST363
+CI2583,Hampton,ST9
+CI2584,Redding,ST7
+CI2585,Corlu,ST862
+CI2586,Baia Mare,ST863
+CI2587,San José de Guanipa,ST535
+CI2588,Nagaoka,ST124
+CI2589,Durgapur,ST60
+CI2590,Mâcon,ST130
+CI2591,Zhaoyuan,ST13
+CI2592,Tyler,ST29
+CI2593,Ploemeur,ST28
+CI2594,La Paz,ST864
+CI2595,Vertou,ST129
+CI2596,Holyoke,ST84
+CI2597,Mauguio,ST265
+CI2598,Funabashi,ST325
+CI2599,Elazig,ST865
+CI2600,San Justo,ST626
+CI2601,Santo Domingo de los Colorados,ST85
+CI2602,Gladbeck,ST58
+CI2603,Woodland,ST7
+CI2604,Korla,ST410
+CI2605,Maisons-Alfort,ST14
+CI2606,Bisceglie,ST190
+CI2607,Draper,ST243
+CI2608,Jurema,ST394
+CI2609,Bijapur,ST197
+CI2610,Witten,ST58
+CI2611,Marina di Carrara,ST16
+CI2612,Taboão da Serra,ST91
+CI2613,Meaux,ST14
+CI2614,Alcobendas,ST102
+CI2615,Cuxhaven,ST47
+CI2616,Natitingou,ST866
+CI2617,Basingstoke,ST31
+CI2618,Czestochowa,ST18
+CI2619,Lebanon,ST483
+CI2620,Pinheiro,ST356
+CI2621,Albi,ST81
+CI2622,Wuzhou,ST284
+CI2623,Ilorin,ST867
+CI2624,Barreirinhas,ST356
+CI2625,East Orange,ST78
+CI2626,Goussainville,ST14
+CI2627,Qostanay,ST868
+CI2628,Vineland,ST78
+CI2629,Cesena,ST216
+CI2630,Shahreza,ST328
+CI2631,Settat,ST869
+CI2632,Rancho Cucamonga,ST7
+CI2633,Ercolano,ST250
+CI2634,Vitry-sur-Seine,ST14
+CI2635,Cavaillon,ST75
+CI2636,Chesterfield,ST31
+CI2637,Gien,ST445
+CI2638,Port Said,ST870
+CI2639,Solna,ST248
+CI2640,Nikopol',ST386
+CI2641,San Angelo,ST29
+CI2642,Hadera,ST684
+CI2643,Itapecerica da Serra,ST91
+CI2644,Ocotlán,ST226
+CI2645,Vilhena,ST871
+CI2646,Tel Aviv,ST397
+CI2647,Taylor,ST63
+CI2648,Antofagasta,ST872
+CI2649,Shrewsbury,ST31
+CI2650,Evreux,ST97
+CI2651,Mouscron,ST495
+CI2652,Bucaramanga,ST196
+CI2653,Piotrkow Trybunalski,ST622
+CI2654,Jiaxing,ST128
+CI2655,Zhangjiakou,ST158
+CI2656,Andijon,ST873
+CI2657,Arnsberg,ST58
+CI2658,Les Pennes-Mirabeau,ST75
+CI2659,Harare,ST835
+CI2660,Saint Louis,ST169
+CI2661,Boghni,ST874
+CI2662,Runcorn,ST31
+CI2663,Las Piedras,ST875
+CI2664,Changde,ST127
+CI2665,Puerto Padre,ST378
+CI2666,Carquefou,ST129
+CI2667,Cedar Rapids,ST515
+CI2668,Kenitra,ST876
+CI2669,Caserta,ST250
+CI2670,Saint-Quentin,ST363
+CI2671,Osmaniye,ST877
+CI2672,Posadas,ST878
+CI2673,Brumado,ST139
+CI2674,Xianning,ST89
+CI2675,Chattanooga,ST483
+CI2676,Salem,ST9
+CI2677,Khorramshahr,ST568
+CI2678,Eskilstuna,ST879
+CI2679,Jalna,ST195
+CI2680,Pavlodar,ST880
+CI2681,Tartu,ST881
+CI2682,Encinitas,ST7
+CI2683,Sidi Bel Abbes,ST882
+CI2684,Kampala,ST883
+CI2685,Qazvin,ST721
+CI2686,Igdir,ST884
+CI2687,Louviers,ST97
+CI2688,Guanare,ST885
+CI2689,Mallawi,ST539
+CI2690,Bedford,ST29
+CI2691,Kettering,ST31
+CI2692,Leverkusen,ST58
+CI2693,Zenica,ST588
+CI2694,Miass,ST314
+CI2695,Tychy,ST18
+CI2696,Khenifra,ST62
+CI2697,Drogobych,ST329
+CI2698,Visalia,ST7
+CI2699,Balmazujvaros,ST886
+CI2700,Guatemala City,ST99
+CI2701,Fleury-les-Aubrais,ST445
+CI2702,Mohammedia,ST66
+CI2703,Hendersonville,ST483
+CI2704,Acarigua,ST885
+CI2705,Maturín,ST887
+CI2706,Nitra,ST888
+CI2707,Barquisimeto,ST381
+CI2708,League City,ST29
+CI2709,San Martín,ST889
+CI2710,Barneveld,ST414
+CI2711,Tarsus,ST890
+CI2712,Pirapora,ST294
+CI2713,Rapid City,ST831
+CI2714,Bellary,ST197
+CI2715,Frankfort,ST19
+CI2716,Gubkin,ST891
+CI2717,Velbert,ST58
+CI2718,Colombo,ST892
+CI2719,Mau,ST148
+CI2720,Zwolle,ST635
+CI2721,Messaad,ST893
+CI2722,Umuarama,ST12
+CI2723,Park Ridge,ST19
+CI2724,Norwich,ST420
+CI2725,Kayseri,ST894
+CI2726,Corum,ST895
+CI2727,Manisa,ST813
+CI2728,Domont,ST14
+CI2729,Neuilly-Plaisance,ST14
+CI2730,Lins,ST91
+CI2731,Antakya,ST837
+CI2732,St. Catharines,ST227
+CI2733,Blois,ST445
+CI2734,Ikot Ekpene,ST896
+CI2735,Manhattan,ST702
+CI2736,Tournai,ST495
+CI2737,Montceau-les-Mines,ST130
+CI2738,The Colony,ST29
+CI2739,Nigde,ST897
+CI2740,Sanford,ST45
+CI2741,Bourgoin-Jallieu,ST183
+CI2742,Lanxi,ST128
+CI2743,Conroe,ST29
+CI2744,Lianzhou,ST118
+CI2745,Mezitli,ST890
+CI2746,Sceaux,ST14
+CI2747,Stavanger,ST628
+CI2748,Eggenstein-Leopoldshafen,ST352
+CI2749,Ancona,ST814
+CI2750,Campeche,ST469
+CI2751,Saint-Herblain,ST129
+CI2752,Uvarovo,ST898
+CI2753,Hilden,ST58
+CI2754,Saint-Nazaire,ST129
+CI2755,Navegantes,ST267
+CI2756,Saskatoon,ST736
+CI2757,Cormeilles-en-Parisis,ST14
+CI2758,Bhatpara,ST60
+CI2759,Zinder,ST899
+CI2760,Covington,ST42
+CI2761,Olathe,ST702
+CI2762,Barnsley,ST31
+CI2763,La Mesa,ST7
+CI2764,Sakai,ST147
+CI2765,Malambo,ST396
+CI2766,Mardan,ST620
+CI2767,Iquitos,ST900
+CI2768,Randfontein,ST120
+CI2769,Huddinge,ST248
+CI2770,Chengjiang,ST48
+CI2771,Lancaster,ST7
+CI2772,Kuito,ST901
+CI2773,Pinsk,ST111
+CI2774,Auch,ST81
+CI2775,Sahuayo de José María Morelos,ST100
+CI2776,Albertville,ST183
+CI2777,Vittoria,ST436
+CI2778,Tetouan,ST335
+CI2779,Langen,ST266
+CI2780,Handa,ST823
+CI2781,Lanester,ST28
+CI2782,Daytona Beach,ST45
+CI2783,Khouribga,ST869
+CI2784,Gardanne,ST75
+CI2785,Bloomington,ST19
+CI2786,Valdemoro,ST102
+CI2787,Gulbarga,ST197
+CI2788,Rockville,ST302
+CI2789,Fukui,ST902
+CI2790,Salamanca,ST255
+CI2791,Santiago del Estero,ST903
+CI2792,Qidong,ST48
+CI2793,Bajos de Haina,ST904
+CI2794,Forbach,ST309
+CI2795,Freeport,ST19
+CI2796,Yichun,ST668
+CI2797,Cártama,ST49
+CI2798,Villiers-sur-Marne,ST14
+CI2799,Minna,ST905
+CI2800,Almaty,ST906
+CI2801,Coatzacoalcos,ST361
+CI2802,Contagem,ST294
+CI2803,Niagara Falls,ST0
+CI2804,Balti,ST907
+CI2805,Ulsan,ST908
+CI2806,Garden City,ST702
+CI2807,Kawaguchi,ST357
+CI2808,Boa Esperança,ST294
+CI2809,Armenia,ST387
+CI2810,Petare,ST605
+CI2811,Bragança Paulista,ST91
+CI2812,Barretos,ST91
+CI2813,Guidonia Montecelio,ST208
+CI2814,Cournon-d'Auvergne,ST176
+CI2815,Boulogne-sur-Mer,ST61
+CI2816,Nkongsamba,ST909
+CI2817,Palatine,ST19
+CI2818,Tianguá,ST504
+CI2819,North Charleston,ST484
+CI2820,Glenview,ST19
+CI2821,Antsiranana,ST910
+CI2822,Valledupar,ST911
+CI2823,Pindamonhangaba,ST91
+CI2824,Tampico,ST341
+CI2825,Coppell,ST29
+CI2826,Vignola,ST216
+CI2827,Jincheng,ST389
+CI2828,Gaithersburg,ST302
+CI2829,Kahramanmaras,ST912
+CI2830,Texas City,ST29
+CI2831,Kamarhati,ST60
+CI2832,Bandundu,ST780
+CI2833,Chevilly-Larue,ST14
+CI2834,Kent,ST107
+CI2835,Port Saint Lucie,ST45
+CI2836,Bolívar,ST772
+CI2837,Warri,ST913
+CI2838,Delicias,ST22
+CI2839,Alfortville,ST14
+CI2840,Yaritagua,ST914
+CI2841,Kremenchuk,ST251
+CI2842,Villeparisis,ST14
+CI2843,Verdun,ST309
+CI2844,Berck,ST61
+CI2845,Roanne,ST183
+CI2846,Warner Robins,ST57
+CI2847,Mtwara,ST915
+CI2848,Banda Aceh,ST916
+CI2849,Westland,ST63
+CI2850,Jiamusi,ST13
+CI2851,Roubaix,ST61
+CI2852,Villeneuve-la-Garenne,ST14
+CI2853,Katsushika-ku,ST450
+CI2854,San Mateo,ST7
+CI2855,Fano,ST814
+CI2856,Feira,ST917
+CI2857,Moa,ST458
+CI2858,Viersen,ST58
+CI2859,Mococa,ST91
+CI2860,Gliwice,ST18
+CI2861,Estepona,ST49
+CI2862,Dover,ST117
+CI2863,Mostaganem,ST918
+CI2864,Sanary-sur-Mer,ST75
+CI2865,Warrnambool,ST56
+CI2866,Mersin,ST890
+CI2867,Trinidad,ST919
+CI2868,Lisieux,ST180
+CI2869,Datong,ST20
+CI2870,Neu-Ulm,ST74
+CI2871,Getxo,ST121
+CI2872,Soledad Díez Gutiérrez,ST320
+CI2873,Piacenza,ST216
+CI2874,Clichy,ST14
+CI2875,Toyohashi,ST823
+CI2876,Milford,ST420
+CI2877,Astana,ST920
+CI2878,Mariupol',ST409
+CI2879,Garanhuns,ST394
+CI2880,Zaporizhzhya,ST587
+CI2881,Ganganagar,ST200
+CI2882,Maracay,ST921
+CI2883,Summerville,ST484
+CI2884,Asyut,ST922
+CI2885,Vassouras,ST346
+CI2886,Medea,ST923
+CI2887,Viña del Mar,ST380
+CI2888,Halifax,ST924
+CI2889,Trani,ST190
+CI2890,Toledo,ST400
+CI2891,Loughborough,ST31
+CI2892,Helmond,ST77
+CI2893,Neubrandenburg,ST285
+CI2894,Buyukcekmece,ST279
+CI2895,Darton,ST31
+CI2896,Pingxiang,ST668
+CI2897,Khemisset,ST364
+CI2898,College Station,ST29
+CI2899,Arcoverde,ST394
+CI2900,Dzhezkazgan,ST925
+CI2901,Bowling Green,ST15
+CI2902,Yanji,ST101
+CI2903,Rhondda,ST297
+CI2904,Sosnowiec,ST18
+CI2905,Jequié,ST139
+CI2906,Rosny-sous-Bois,ST14
+CI2907,Chimbote,ST926
+CI2908,Cartago,ST502
+CI2909,Troyes,ST424
+CI2910,Fuenlabrada,ST102
+CI2911,Konya,ST927
+CI2912,Wilson,ST8
+CI2913,Clacton-on-Sea,ST31
+CI2914,Pomezia,ST208
+CI2915,Springs,ST120
+CI2916,Bergheim,ST58
+CI2917,Abbotsford,ST246
+CI2918,Bruges,ST643
+CI2919,Cruzeiro,ST91
+CI2920,Harlingen,ST29
+CI2921,Bilbeis,ST928
+CI2922,Cumaná,ST929
+CI2923,Vancouver,ST42
+CI2924,Panipat,ST33
+CI2925,Bad Waldsee,ST352
+CI2926,Udaipur,ST930
+CI2927,Eunápolis,ST139
+CI2928,Kalundborg,ST931
+CI2929,Bergisch Gladbach,ST58
+CI2930,Santa Cruz do Sul,ST594
+CI2931,Murray,ST243
+CI2932,Gandia,ST112
+CI2933,Grand Rapids,ST63
+CI2934,Águas Lindas de Goiás,ST192
+CI2935,Moncalieri,ST168
+CI2936,Roermond,ST580
+CI2937,Wolfsburg,ST47
+CI2938,Skikda,ST932
+CI2939,Yushu,ST101
+CI2940,Ostrava,ST933
+CI2941,Valparaíso,ST380
+CI2942,Zacatecas,ST934
+CI2943,Arrentela,ST935
+CI2944,Citrus Heights,ST7
+CI2945,Montesson,ST14
+CI2946,Hot Springs,ST522
+CI2947,Coon Rapids,ST35
+CI2948,Ramat Gan,ST397
+CI2949,Wendeng,ST36
+CI2950,Caluire-et-Cuire,ST183
+CI2951,Camaçari,ST139
+CI2952,Bialystok,ST936
+CI2953,Apatzingán de la Constitución,ST100
+CI2954,Vespasiano,ST294
+CI2955,Cambridge,ST84
+CI2956,Ain Oussera,ST893
+CI2957,Ji-Paraná,ST871
+CI2958,Kashira,ST937
+CI2959,Adiyaman,ST938
+CI2960,Giurgiu,ST939
+CI2961,Barra do Piraí,ST346
+CI2962,Kulob,ST940
+CI2963,Las Cruces,ST536
+CI2964,Pontevedra,ST79
+CI2965,Esbjerg,ST646
+CI2966,Arezzo,ST16
+CI2967,Mijas,ST49
+CI2968,Chimoio,ST941
+CI2969,Sanliurfa,ST942
+CI2970,Camocim,ST504
+CI2971,Pestovo,ST943
+CI2972,Argentan,ST180
+CI2973,Saint Charles,ST169
+CI2974,Sarreguemines,ST309
+CI2975,Waiblingen,ST352
+CI2976,Vigneux-sur-Seine,ST14
+CI2977,Tlemcen,ST944
+CI2978,Fresnillo de González Echeverría,ST934
+CI2979,Javanrud,ST194
+CI2980,Rochefort,ST289
+CI2981,Belgorod,ST891
+CI2982,Molfetta,ST190
+CI2983,Westonaria,ST120
+CI2984,Majadahonda,ST102
+CI2985,Maisons-Laffitte,ST14
+CI2986,Floriano,ST778
+CI2987,Terneuzen,ST945
+CI2988,Les Lilas,ST14
+CI2989,Sliven,ST946
+CI2990,Sagunto,ST112
+CI2991,Sapele,ST913
+CI2992,Avellino,ST250
+CI2993,Baraki,ST947
+CI2994,Echuca,ST56
+CI2995,Turkmenabat,ST948
+CI2996,Oriximiná,ST418
+CI2997,Erechim,ST594
+CI2998,Leeuwarden,ST949
+CI2999,Yiwu,ST128
+CI3000,Ayacucho,ST950
+CI3001,San Marcos,ST29
+CI3002,Corrientes,ST834
+CI3003,Ziguinchor,ST951
+CI3004,Briton Ferry,ST297
+CI3005,Barry,ST297
+CI3006,Yazd,ST952
+CI3007,Qena,ST953
+CI3008,Hinckley,ST31
+CI3009,Guarapari,ST315
+CI3010,Lund,ST464
+CI3011,Montargis,ST445
+CI3012,La Celle-Saint-Cloud,ST14
+CI3013,Abu Kabir,ST928
+CI3014,Caldwell,ST608
+CI3015,Lianzhou,ST284
+CI3016,Xinzhou,ST89
+CI3017,Braila,ST954
+CI3018,Lianyuan,ST127
+CI3019,Itapecuru Mirim,ST356
+CI3020,Damaturu,ST955
+CI3021,Duzce,ST956
+CI3022,Kayes,ST957
+CI3023,Santa Fe,ST626
+CI3024,Grove City,ST107
+CI3025,Rochester Hills,ST63
+CI3026,Bamberg,ST74
+CI3027,Alphen aan den Rijn,ST478
+CI3028,Sogamoso,ST661
+CI3029,Oakville,ST227
+CI3030,El Escorial,ST102
+CI3031,Cary,ST8
+CI3032,Haltom City,ST29
+CI3033,Avellaneda,ST626
+CI3034,Treviglio,ST291
+CI3035,Lons-le-Saunier,ST812
+CI3036,Oullins,ST183
+CI3037,Indaiatuba,ST91
+CI3038,Hemel Hempstead,ST31
+CI3039,Mannheim,ST352
+CI3040,Juazeiro,ST139
+CI3041,Le Creusot,ST130
+CI3042,Longueuil,ST68
+CI3043,Limbe,ST958
+CI3044,Temirtau,ST925
+CI3045,Mysore,ST197
+CI3046,Hohhot,ST142
+CI3047,Woonsocket,ST122
+CI3048,Kars,ST959
+CI3049,Eskisehir,ST960
+CI3050,Oyama,ST961
+CI3051,Cosenza,ST962
+CI3052,Xiangfan,ST89
+CI3053,Jizzakh,ST963
+CI3054,Zielona Gora,ST964
+CI3055,Fareham,ST31
+CI3056,Boynton Beach,ST45
+CI3057,Juliaca,ST965
+CI3058,Bielsko-Biala,ST18
+CI3059,Qaraghandy,ST925
+CI3060,Potenza,ST966
+CI3061,Dourados,ST664
+CI3062,Allen,ST29
+CI3063,Montgeron,ST14
+CI3064,Windsor,ST227
+CI3065,Ennigerloh,ST58
+CI3066,Aalst,ST181
+CI3067,Stara Zagora,ST967
+CI3068,Rijeka,ST968
+CI3069,Hamilton,ST107
+CI3070,Catanduva,ST91
+CI3071,Bafoussam,ST503
+CI3072,Cinisello Balsamo,ST291
+CI3073,Tokat,ST969
+CI3074,Sonneberg,ST201
+CI3075,Dordrecht,ST478
+CI3076,Etimesgut,ST513
+CI3077,Tanggu,ST258
+CI3078,Marion,ST515
+CI3079,Guimarães,ST826
+CI3080,Odessa,ST29
+CI3081,Saint-Pol-sur-Mer,ST61
+CI3082,Turmero,ST921
+CI3083,Palmira,ST502
+CI3084,Ilo,ST970
+CI3085,Hamme,ST181
+CI3086,Wenling,ST128
+CI3087,Urganch,ST971
+CI3088,Assen,ST749
+CI3089,Sivas,ST972
+CI3090,Passau,ST74
+CI3091,Shagamu,ST973
+CI3092,Enschede,ST635
+CI3093,Southampton,ST31
+CI3094,Lorient,ST28
+CI3095,Ilhéus,ST139
+CI3096,An Nasiriyah,ST974
+CI3097,San Luis Río Colorado,ST88
+CI3098,Kurashiki,ST975
+CI3099,Elbeuf,ST97
+CI3100,Lincoln Park,ST63
+CI3101,Purmerend,ST96
+CI3102,Kabwe,ST976
+CI3103,Sarkand,ST977
+CI3104,Elkhart,ST172
+CI3105,Owerri,ST978
+CI3106,Les Pavillons-sous-Bois,ST14
+CI3107,Gulu,ST979
+CI3108,Taizhou,ST48
+CI3109,Nuneaton,ST31
+CI3110,Willich,ST58
+CI3111,Tremblay-en-France,ST14
+CI3112,Quincy,ST19
+CI3113,San Salvador de Jujuy,ST980
+CI3114,Tsukuba,ST707
+CI3115,Durg,ST164
+CI3116,Lida,ST482
+CI3117,High Wycombe,ST31
+CI3118,Palo Negro,ST921
+CI3119,Banjarmasin,ST981
+CI3120,Orland Park,ST19
+CI3121,Meridian,ST608
+CI3122,Macon,ST57
+CI3123,Onitsha,ST982
+CI3124,Sonipat,ST33
+CI3125,Beipiao,ST95
+CI3126,Marlborough,ST84
+CI3127,Arapiraca,ST553
+CI3128,Santa Rosa,ST983
+CI3129,Anzio,ST208
+CI3130,Holland,ST63
+CI3131,Banska Bystrica,ST984
+CI3132,Commerce City,ST293
+CI3133,Kerpen,ST58
+CI3134,Edea,ST909
+CI3135,Taunton,ST31
+CI3136,Acámbaro,ST153
+CI3137,Ariquemes,ST871
+CI3138,Rio Grande,ST594
+CI3139,Loudi,ST127
+CI3140,Bristol,ST483
+CI3141,Palmares,ST394
+CI3142,Guarujá,ST91
+CI3143,Lingolsheim,ST143
+CI3144,Quebec,ST68
+CI3145,Montbrison,ST183
+CI3146,Guaratinguetá,ST91
+CI3147,Flensburg,ST655
+CI3148,Yangjiang,ST118
+CI3149,Bujumbura,ST985
+CI3150,Maastricht,ST580
+CI3151,Laguna Niguel,ST7
+CI3152,Puno,ST965
+CI3153,Kismaayo,ST986
+CI3154,Beaune,ST130
+CI3155,Pazardzhik,ST987
+CI3156,Asahikawa,ST988
+CI3157,Linden,ST78
+CI3158,Tabora,ST989
+CI3159,Champaign,ST19
+CI3160,Zihuatanejo,ST508
+CI3161,Jacobina,ST139
+CI3162,Deyang,ST59
+CI3163,Neuquén,ST990
+CI3164,Chatham,ST31
+CI3165,Inegol,ST759
+CI3166,Mopti,ST991
+CI3167,Fianarantsoa,ST992
+CI3168,Wausau,ST90
+CI3169,Ichikawa,ST325
+CI3170,Cajamarca,ST993
+CI3171,Coachella,ST7
+CI3172,Kortrijk,ST643
+CI3173,Baqubah,ST994
+CI3174,Alessandria,ST168
+CI3175,Gela,ST436
+CI3176,Parakou,ST995
+CI3177,La Rioja,ST996
+CI3178,Jaworzno,ST18
+CI3179,Bahía Blanca,ST463
+CI3180,Ronchin,ST61
+CI3181,Rustenburg,ST253
+CI3182,Chaumont,ST424
+CI3183,Birobidzhan,ST997
+CI3184,Caraguatatuba,ST91
+CI3185,Peterborough,ST227
+CI3186,Littleton,ST293
+CI3187,Samsun,ST998
+CI3188,Foshan,ST118
+CI3189,Usol'ye-Sibirskoye,ST560
+CI3190,Arad,ST999
+CI3191,West Jordan,ST243
+CI3192,Nijmegen,ST414
+CI3193,Tatuí,ST91
+CI3194,Shushtar,ST568
+CI3195,Kenner,ST234
+CI3196,Maidstone,ST31
+CI3197,Villavicencio,ST1000
+CI3198,Tongzhou,ST109
+CI3199,Bolingbrook,ST19
+CI3200,Chioggia,ST92
+CI3201,Praia Grande,ST91
+CI3202,Pompano Beach,ST45
+CI3203,Saginaw,ST63
+CI3204,Disuq,ST1001
+CI3205,Limay,ST14
+CI3206,Maltepe,ST279
+CI3207,Changzhi,ST389
+CI3208,Cambridge,ST6
+CI3209,Valle Hermoso,ST341
+CI3210,Zaoyang,ST89
+CI3211,Itapetininga,ST91
+CI3212,Pisa,ST16
+CI3213,Jingdezhen,ST668
+CI3214,Mons-en-Baroeul,ST61
+CI3215,Saint-Laurent,ST68
+CI3216,Carpentras,ST75
+CI3217,Chifeng,ST142
+CI3218,Hapur,ST148
+CI3219,Morogoro,ST1002
+CI3220,Teziutlán,ST73
+CI3221,Den Helder,ST96
+CI3222,Shimoga,ST197
+CI3223,Annemasse,ST183
+CI3224,Sassari,ST602
+CI3225,Corpus Christi,ST29
+CI3226,San Nicolás de los Arroyos,ST463
+CI3227,Seraing,ST756
+CI3228,Hilversum,ST96
+CI3229,Zhangzhou,ST198
+CI3230,Melbourne,ST45
+CI3231,Erzurum,ST1003
+CI3232,Iquique,ST1004
+CI3233,Barcelona,ST535
+CI3234,Votuporanga,ST91
+CI3235,Olomouc,ST1005
+CI3236,Gusau,ST1006
+CI3237,Yanbu al Bahr,ST611
+CI3238,Clovis,ST536
+CI3239,Loures,ST235
+CI3240,Upplands Väsby,ST248
+CI3241,Vesoul,ST812
+CI3242,Bloemfontein,ST1007
+CI3243,Várzea Grande,ST592
+CI3244,Huixquilucan,ST204
+CI3245,Luanshya,ST199
+CI3246,Sokode,ST1008
+CI3247,Liuyang,ST127
+CI3248,Barddhaman,ST60
+CI3249,Salta,ST1009
+CI3250,Tallaght,ST1010
+CI3251,Quartu Sant'Elena,ST602
+CI3252,New Bedford,ST84
+CI3253,Soma,ST813
+CI3254,Imola,ST216
+CI3255,Olivet,ST445
+CI3256,Bobigny,ST14
+CI3257,San Pedro,ST362
+CI3258,Ilam,ST1011
+CI3259,Red Deer,ST372
+CI3260,Biarritz,ST72
+CI3261,Modesto,ST7
+CI3262,Torbat-e Heydariyeh,ST207
+CI3263,Stakhanov,ST506
+CI3264,Polatsk,ST785
+CI3265,Abbeville,ST363
+CI3266,Shizuishan,ST1012
+CI3267,Kumanovo,ST1013
+CI3268,Kiziltepe,ST688
+CI3269,Al Khums,ST1014
+CI3270,Helsingborg,ST464
+CI3271,St. John's,ST1015
+CI3272,El Limón,ST921
+CI3273,Siauliai,
+CI3274,Sobral,ST504
+CI3275,Kwangju,ST350
+CI3276,Craiova,ST1017
+CI3277,Baden-Baden,ST352
+CI3278,Cedar Hill,ST29
+CI3279,Orange,ST78
+CI3280,Bury,ST31
+CI3281,Barasat,ST60
+CI3282,Alanya,ST843
+CI3283,Saint Paul,ST35
+CI3284,Bitonto,ST190
+CI3285,Fulda,ST266
+CI3286,Melchor Ocampo,ST204
+CI3287,Savona,ST419
+CI3288,Borken,ST58
+CI3289,Fiumicino,ST208
+CI3290,Itu,ST91
+CI3291,Ordu,ST1018
+CI3292,Mary,ST1019
+CI3293,Hamar,ST1020
+CI3294,La Quinta,ST7
+CI3295,Linares,ST191
+CI3296,Ghaziabad,ST148
+CI3297,Shangqiu,ST138
+CI3298,Hickory,ST8
+CI3299,Hillsboro,ST475
+CI3300,Kalisz,ST665
+CI3301,Gulfport,ST557
+CI3302,Ivano-Frankivs'k,ST1021
+CI3303,Laurel,ST302
+CI3304,Cassilândia,ST664
+CI3305,Schweinfurt,ST74
+CI3306,Benoni,ST120
+CI3307,Kandi,ST1022
+CI3308,Isparta,ST1023
+CI3309,Loum,ST909
+CI3310,Bagamoyo,ST1024
+CI3311,Goldsboro,ST8
+CI3312,Homestead,ST45
+CI3313,Trujillo,ST1025
+CI3314,Cabimas,ST704
+CI3315,Koforidua,ST1026
+CI3316,New Albany,ST172
+CI3317,Bloomington,ST172
+CI3318,Mubi,ST1027
+CI3319,Rimini,ST216
+CI3320,Manacapuru,ST477
+CI3321,Ekibastuz,ST880
+CI3322,Santa Clara,ST7
+CI3323,Vila Nova de Gaia,ST657
+CI3324,Anyang,ST138
+CI3325,Harlow,ST31
+CI3326,La Ciotat,ST75
+CI3327,Coari,ST477
+CI3328,Hattingen,ST58
+CI3329,Zilina,
+CI3330,Kocaeli,ST696
+CI3331,Kukatpalli,ST339
+CI3332,Huaihua,ST127
+CI3333,Arapongas,ST12
+CI3334,Babol,ST39
+CI3335,Faches-Thumesnil,ST61
+CI3336,Saint-Pierre-des-Corps,ST445
+CI3337,Lo Prado,ST369
+CI3338,Cox’s B?z?r,ST317
+CI3339,Owo,ST1029
+CI3340,Pierrefitte-sur-Seine,ST14
+CI3341,Tuscaloosa,ST175
+CI3342,Santarém,ST418
+CI3343,Ilesha,ST1030
+CI3344,Yuanjiang,ST127
+CI3345,East Point,ST57
+CI3346,Bento Gonçalves,ST594
+CI3347,Cottage Grove,ST35
+CI3348,Apple Valley,ST35
+CI3349,Atsugacho,ST988
+CI3350,Longjumeau,ST14
+CI3351,Eagan,ST35
+CI3352,Itaituba,ST418
+CI3353,Pitesti,ST1031
+CI3354,Kumba,ST958
+CI3355,Tongchuan,ST59
+CI3356,Leominster,ST84
+CI3357,Matehuala,ST320
+CI3358,Ajman,ST1032
+CI3359,Umraniye,ST279
+CI3360,Hachinohe,ST1033
+CI3361,Gillingham,ST31
+CI3362,Waterloo,ST227
+CI3363,Guamúchil,ST205
+CI3364,Bechar,ST1034
+CI3365,Palhoça,ST267
+CI3366,Cruzeiro do Sul,ST722
+CI3367,Murfreesboro,ST483
+CI3368,Toguchin,ST1035
+CI3369,Tembisa,ST120
+CI3370,Denain,ST61
+CI3371,Lodi,ST7
+CI3372,Englewood,ST293
+CI3373,Baoding,ST158
+CI3374,Thousand Oaks,ST7
+CI3375,Berdychiv,ST113
+CI3376,Schiffweiler,ST607
+CI3377,Penglai,ST36
+CI3378,Elda,ST112
+CI3379,Bideford,ST31
+CI3380,Bayonne,ST78
+CI3381,Chaohu,ST20
+CI3382,Jefferson City,ST169
+CI3383,Amagasaki,ST173
+CI3384,Menemen,ST154
+CI3385,Focsani,ST1036
+CI3386,Tekirdag,ST862
+CI3387,Kadoma,ST1037
+CI3388,Mason,ST107
+CI3389,Piura,ST1038
+CI3390,Paisley,ST21
+CI3391,Junín,ST463
+CI3392,Gosport,ST31
+CI3393,Ulundi,ST505
+CI3394,Keren,ST1039
+CI3395,Le Pré-Saint-Gervais,ST14
+CI3396,Be'er Sheva,ST442
+CI3397,Alkmaar,ST96
+CI3398,Bata,ST1040
+CI3399,Urbandale,ST515
+CI3400,Gujrat,ST182
+CI3401,Stanger,ST505
+CI3402,Pickering,ST227
+CI3403,Aksaray,ST1041
+CI3404,Amasya,ST1042
+CI3405,Taixing,ST48
+CI3406,Moissy-Cramayel,ST14
+CI3407,Abuja,ST1043
+CI3408,Vlaardingen,ST478
+CI3409,Thomasville,ST8
+CI3410,eMbalenhle,ST1044
+CI3411,Lisichansk,ST506
+CI3412,Silopi,ST1045
+CI3413,Siirt,ST1046
+CI3414,Tete,ST1047
+CI3415,Mosquera,ST241
+CI3416,Faenza,ST216
+CI3417,Ouidah,ST1048
+CI3418,Mpumalanga,ST505
+CI3419,Vitória de Santo Antão,ST394
+CI3420,Barranca,ST1049
+CI3421,Malden,ST84
+CI3422,Namibe,ST1050
+CI3423,Marysville,ST42
+CI3424,Dartmouth,ST924
+CI3425,Bracknell,ST31
+CI3426,Roosendaal,ST77
+CI3427,Vanadzor,ST1051
+CI3428,Foligno,ST529
+CI3429,Agde,ST265
+CI3430,Vence,ST75
+CI3431,Frederiksberg,ST511
+CI3432,Andover,ST84
+CI3433,Sidi Qacem,ST876
+CI3434,Yiyang,ST127
+CI3435,Kafr ad Dawwar,ST792
+CI3436,Coquitlam,ST246
+CI3437,Apucarana,ST12
+CI3438,Forst,ST524
+CI3439,Makeni,ST1052
+CI3440,Chiclayo,ST1053
+CI3441,New Castle,ST172
+CI3442,Coral Gables,ST45
+CI3443,Cumbernauld,ST21
+CI3444,Mesquite,ST29
+CI3445,Tuzla,ST588
+CI3446,Quanzhou,ST198
+CI3447,Split,ST1054
+CI3448,Apartadó,ST76
+CI3449,Nal'chik,ST1055
+CI3450,Busto Arsizio,ST291
+CI3451,Ipatinga,ST294
+CI3452,Manresa,ST149
+CI3453,Ugep,ST683
+CI3454,Maroua,ST1056
+CI3455,Redwood City,ST7
+CI3456,Carapicuíba,ST91
+CI3457,Siena,ST16
+CI3458,Concepción del Uruguay,ST700
+CI3459,Samalut,ST539
+CI3460,Botshabelo,ST1007
+CI3461,San Carlos del Zulia,ST704
+CI3462,Facatativá,ST241
+CI3463,Sterling Heights,ST63
+CI3464,Uman',ST794
+CI3465,Funtua,ST1057
+CI3466,San Clemente,ST7
+CI3467,Cluses,ST183
+CI3468,Afragola,ST250
+CI3469,Tapachula,ST758
+CI3470,Chalinze,ST1024
+CI3471,Aracati,ST504
+CI3472,Weihai,ST36
+CI3473,Rogers,ST522
+CI3474,Cercola,ST250
+CI3475,Stafford,ST31
+CI3476,São Benedito,ST504
+CI3477,Itapeva,ST91
+CI3478,Liberec,ST1058
+CI3479,Lindenhurst,ST0
+CI3480,Silao,ST153
+CI3481,La Porte,ST29
+CI3482,Douarnenez,ST28
+CI3483,Modena,ST216
+CI3484,Montebello,ST7
+CI3485,São Vicente,ST91
+CI3486,Chalus,ST39
+CI3487,Plock,ST750
+CI3488,Usti nad Labem,ST1059
+CI3489,Deva,ST1060
+CI3490,Mantes-la-Ville,ST14
+CI3491,Melilla,ST1061
+CI3492,Suresnes,ST14
+CI3493,Tulle,ST601
+CI3494,West Palm Beach,ST45
+CI3495,Rock Hill,ST484
+CI3496,Tinaquillo,ST1062
+CI3497,Jinja,ST1063
+CI3498,Chuncheon,ST1064
+CI3499,Kasama,ST1065
+CI3500,Charlottesville,ST9
+CI3501,Gombe,ST1066
+CI3502,Klaipeda,ST1067
+CI3503,Shelton,ST420
+CI3504,Jiaohe,ST101
+CI3505,Aberdeen,ST831
+CI3506,Rohtak,ST33
+CI3507,Grapevine,ST29
+CI3508,El Jadida,ST556
+CI3509,Bafra,ST998
+CI3510,Salihli,ST813
+CI3511,Campo Limpo Paulista,ST91
+CI3512,Etawah,ST148
+CI3513,Cidade Ocidental,ST192
+CI3514,Hagerstown,ST302
+CI3515,Venlo,ST580
+CI3516,Sierra Vista,ST276
+CI3517,Riom,ST176
+CI3518,Leoben,ST70
+CI3519,Yucaipa,ST7
+CI3520,Vereeniging,ST120
+CI3521,Mérida,ST1068
+CI3522,Pato Branco,ST12
+CI3523,Dronfield,ST31
+CI3524,Boca Raton,ST45
+CI3525,Viroflay,ST14
+CI3526,Yuyao,ST128
+CI3527,Mogi das Cruzes,ST91
+CI3528,Riberalta,ST919
+CI3529,Benxi,ST95
+CI3530,Sonderborg,ST646
+CI3531,Logan,ST243
+CI3532,Londrina,ST12
+CI3533,Blanquefort,ST72
+CI3534,Ferndown,ST31
+CI3535,Araucária,ST12
+CI3536,Vigevano,ST291
+CI3537,Ambattur,ST188
+CI3538,Iranshahr,ST737
+CI3539,Lomme,ST61
+CI3540,Owensboro,ST15
+CI3541,Berrechid,ST869
+CI3542,Blagoveshchensk,ST238
+CI3543,Segovia,ST255
+CI3544,Burlington,ST515
+CI3545,Dax,ST72
+CI3546,Sokoto,ST1069
+CI3547,Ardahan,ST1070
+CI3548,Cuneo,ST168
+CI3549,Longview,ST42
+CI3550,Morón,ST429
+CI3551,Saint-Gratien,ST14
+CI3552,Aligudarz,ST189
+CI3553,Pemba,ST1071
+CI3554,Pitalito,ST717
+CI3555,Guelmim,ST1072
+CI3556,Gatineau,ST68
+CI3557,Cheonan,ST1073
+CI3558,Ar Raqqah,ST1074
+CI3559,Campina Grande,ST178
+CI3560,Zwickau,ST25
+CI3561,Yalova,ST1075
+CI3562,Pleven,ST1076
+CI3563,Akhisar,ST813
+CI3564,Suceava,ST1077
+CI3565,Abeokuta,ST973
+CI3566,Chapel Allerton,ST31
+CI3567,Toliara,ST1078
+CI3568,Volksrust,ST1044
+CI3569,Veenendaal,ST404
+CI3570,Camaragibe,ST394
+CI3571,Yuncheng,ST389
+CI3572,Santa Fe,ST536
+CI3573,San Antonio,ST380
+CI3574,Crotone,ST962
+CI3575,Montigny-le-Bretonneux,ST14
+CI3576,Sabanalarga,ST396
+CI3577,Uberlândia,ST294
+CI3578,Chilly-Mazarin,ST14
+CI3579,Malanje,ST1079
+CI3580,Langfang,ST158
+CI3581,Cúa,ST605
+CI3582,Anjo,ST823
+CI3583,Khasavyurt,ST390
+CI3584,Simões Filho,ST139
+CI3585,Lattes,ST265
+CI3586,Bonao,ST1080
+CI3587,Garland,ST29
+CI3588,Frisco,ST29
+CI3589,Antioch,ST7
+CI3590,Epworth,ST835
+CI3591,Igurusi,ST822
+CI3592,La Crau,ST75
+CI3593,Parintins,ST477
+CI3594,Toamasina,ST1081
+CI3595,Peer,ST417
+CI3596,Liaoyuan,ST101
+CI3597,Darlington,ST31
+CI3598,Narsingdi,ST46
+CI3599,Katsina,ST1057
+CI3600,Lambaré,ST307
+CI3601,West Allis,ST90
+CI3602,Escondido,ST7
+CI3603,Digne-les-Bains,ST75
+CI3604,Bharatpur,ST200
+CI3605,Novo Cruzeiro,ST294
+CI3606,Araraquara,ST91
+CI3607,Boksburg,ST120
+CI3608,Igarassu,ST394
+CI3609,Los Ángeles,ST368
+CI3610,Saint-Jean-de-la-Ruelle,ST445
+CI3611,Kara,ST1082
+CI3612,Loos,ST61
+CI3613,Danville,ST19
+CI3614,Waukesha,ST90
+CI3615,Rivera,ST1083
+CI3616,Bartlett,ST483
+CI3617,Birjand,ST1084
+CI3618,Detmold,ST58
+CI3619,Binzhou,ST36
+CI3620,Nashua,ST268
+CI3621,Zwedru,ST1085
+CI3622,Akhmim,ST136
+CI3623,Cuenca,ST400
+CI3624,Viransehir,ST942
+CI3625,Guarenas,ST605
+CI3626,El Tigre,ST535
+CI3627,Varamin,ST239
+CI3628,Larache,ST335
+CI3629,San Fernando del Valle de Catamarca,ST1086
+CI3630,Nysa,ST673
+CI3631,Battipaglia,ST250
+CI3632,Andria,ST190
+CI3633,Castellammare di Stabia,ST250
+CI3634,Cubuk,ST513
+CI3635,St. Gallen,ST1087
+CI3636,Cubatão,ST91
+CI3637,Günzburg,ST74
+CI3638,Pouso Alegre,ST294
+CI3639,Bergerac,ST72
+CI3640,Gurupi,ST348
+CI3641,Fontenay-le-Comte,ST129
+CI3642,Cagua,ST921
+CI3643,Bozeman,ST499
+CI3644,Paita,ST1038
+CI3645,Talara,ST1038
+CI3646,Yangquan,ST389
+CI3647,Suizhou,ST89
+CI3648,Kidderminster,ST31
+CI3649,Mount Pleasant,ST63
+CI3650,Cape Coast,ST1088
+CI3651,Catalão,ST192
+CI3652,Ueda,ST1089
+CI3653,Portage,ST172
+CI3654,Afyon,ST1090
+CI3655,Karaman,ST1091
+CI3656,Chigasaki,ST532
+CI3657,Bridgeton,ST78
+CI3658,Al Hudaydah,ST1092
+CI3659,Krasnyy Luch,ST506
+CI3660,Kalush,ST1021
+CI3661,La Chapelle-sur-Erdre,ST129
+CI3662,Kita-ku,ST173
+CI3663,Medford,ST475
+CI3664,Nguigmi,ST1093
+CI3665,Akure,ST1029
+CI3666,Latur,ST195
+CI3667,Tinley Park,ST19
+CI3668,Altoona,ST64
+CI3669,Dole,ST812
+CI3670,Lagny-sur-Marne,ST14
+CI3671,Falconara Marittima,ST814
+CI3672,Kastamonu,ST1094
+CI3673,Kilis,ST1095
+CI3674,Neyshabur,ST207
+CI3675,Karnal,ST33
+CI3676,Resita,ST1096
+CI3677,Illkirch-Graffenstaden,ST143
+CI3678,Linhares,ST315
+CI3679,Ponteareas,ST79
+CI3680,Hebi,ST138
+CI3681,Gorzow Wielkopolski,ST964
+CI3682,Sheboygan,ST90
+CI3683,Leiden,ST478
+CI3684,Usak,ST1097
+CI3685,Calabozo,ST771
+CI3686,Jaboticabal,ST91
+CI3687,Huaraz,ST926
+CI3688,Kakinada,ST252
+CI3689,Bellevue,ST42
+CI3690,Taldyqorghan,ST977
+CI3691,Brantford,ST227
+CI3692,Zaozhuang,ST36
+CI3693,Sinop,ST592
+CI3694,Korce,ST1098
+CI3695,Teramo,ST316
+CI3696,Krugersdorp,ST120
+CI3697,Ambon,ST1099
+CI3698,Danbury,ST420
+CI3699,Yopal,ST1100
+CI3700,Morley,ST31
+CI3701,Avon,ST14
+CI3702,Fujisawa,ST532
+CI3703,Voiron,ST183
+CI3704,Davis,ST7
+CI3705,Necochea,ST463
+CI3706,San Cristóbal,ST1101
+CI3707,Redmond,ST42
+CI3708,Maxixe,ST1102
+CI3709,Guarapuava,ST12
+CI3710,Vitória da Conquista,ST139
+CI3711,Xiantao,ST89
+CI3712,Marsa Matruh,ST1103
+CI3713,Burlington,ST227
+CI3714,Ragusa,ST436
+CI3715,Cestas,ST72
+CI3716,Lewiston,ST803
+CI3717,Renqiu,ST158
+CI3718,Sète,ST265
+CI3719,Tottori,ST1104
+CI3720,Semnan,ST1105
+CI3721,Crato,ST504
+CI3722,Osijek,ST1106
+CI3723,Rize,ST1107
+CI3724,Altotonga,ST361
+CI3725,Cosmópolis,ST91
+CI3726,Greeley,ST293
+CI3727,Manfredonia,ST190
+CI3728,Massa,ST16
+CI3729,Randers,ST1108
+CI3730,Royal Oak,ST63
+CI3731,Taraz,ST1109
+CI3732,Jataí,ST192
+CI3733,Aix-les-Bains,ST183
+CI3734,Billings,ST499
+CI3735,Abakaliki,ST1110
+CI3736,Shahjahanpur,ST148
+CI3737,Izúcar de Matamoros,ST73
+CI3738,Seropédica,ST346
+CI3739,Chapel Hill,ST8
+CI3740,Rehovot,ST744
+CI3741,Montería,ST1111
+CI3742,Margate,ST45
+CI3743,Dublin,ST7
+CI3744,Sorgues,ST75
+CI3745,Cizre,ST1045
+CI3746,Aydin,ST566
+CI3747,Kigoma,ST17
+CI3748,Oss,ST77
+CI3749,Odivelas,ST235
+CI3750,Gonabad,ST207
+CI3751,Calama,ST872
+CI3752,Dar Chioukh,ST893
+CI3753,Cuyahoga Falls,ST107
+CI3754,Missouri City,ST29
+CI3755,Loveland,ST293
+CI3756,Bitola,ST1112
+CI3757,Levin,ST379
+CI3758,Edirne,ST1113
+CI3759,Deer Park,ST29
+CI3760,North Miami,ST45
+CI3761,Pernik,ST1114
+CI3762,Gitarama,ST858
+CI3763,Pensacola,ST45
+CI3764,Matsumoto,ST1089
+CI3765,Jastrzebie Zdroj,ST18
+CI3766,Franco da Rocha,ST91
+CI3767,Lokossa,ST1115
+CI3768,Stadtlohn,ST58
+CI3769,Baytown,ST29
+CI3770,Binzhou,ST13
+CI3771,Waterloo,ST515
+CI3772,Bullhead City,ST276
+CI3773,Envigado,ST76
+CI3774,New Delhi,ST43
+CI3775,Midyat,ST688
+CI3776,Mutare,ST1116
+CI3777,Port Orange,ST45
+CI3778,Arlington Heights,ST19
+CI3779,Obninsk,ST583
+CI3780,New Brunswick,ST78
+CI3781,Kafr ash Shaykh,ST1001
+CI3782,Norfolk,ST202
+CI3783,Zhlobin,ST674
+CI3784,Iowa City,ST515
+CI3785,Grand Island,ST202
+CI3786,Springdale,ST522
+CI3787,Keller,ST29
+CI3788,Oak Park,ST19
+CI3789,Barrie,ST227
+CI3790,Sorriso,ST592
+CI3791,Millau,ST81
+CI3792,Atlantic City,ST78
+CI3793,Al Manaqil,ST666
+CI3794,Romeoville,ST19
+CI3795,Torremolinos,ST49
+CI3796,Buriticupu,ST356
+CI3797,Fort Portal,ST1117
+CI3798,Vanderbijlpark,ST120
+CI3799,Tartagal,ST1009
+CI3800,Layton,ST243
+CI3801,Elyria,ST107
+CI3802,Jupiter,ST45
+CI3803,Everett,ST42
+CI3804,Osny,ST14
+CI3805,Auburn,ST42
+CI3806,Ormond Beach,ST45
+CI3807,San Luis Obispo,ST7
+CI3808,Abilene,ST29
+CI3809,Felahiye,ST894
+CI3810,Lewiston,ST608
+CI3811,Victoria Falls,ST1118
